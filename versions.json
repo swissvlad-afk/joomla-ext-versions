@@ -1,0 +1,1367 @@
+{
+ "format": 1,
+ "genere": "2026-10-28T12:30:45+00:00",
+ "commit": "695f833",
+ "commit_date": "2026-10-28T13:18:05+01:00",
+ "modifie": false,
+ "groupes": [
+  {
+   "nom": "Comptes et accès",
+   "entrees": [
+    {
+     "dossier": "lib_cardionet",
+     "type": "library",
+     "element": "cardionet",
+     "folder": "",
+     "client": 0,
+     "version": "2.0.1",
+     "manifeste": "cardionet.xml",
+     "noms": {
+      "fr-FR": "Bibliothèque CardioNet – comptes utilisateurs",
+      "en-GB": "CardioNet library – user accounts"
+     },
+     "cle": "lib_cardionet",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [
+      {
+       "dossier": "plg_task_cardionetmaintenance",
+       "type": "plugin",
+       "element": "cardionetmaintenance",
+       "folder": "task",
+       "client": 0,
+       "version": "2.0.1",
+       "manifeste": "cardionetmaintenance.xml",
+       "noms": {
+        "fr-FR": "Tâche - Maintenance CardioNet",
+        "en-GB": "Task - CardioNet maintenance"
+       }
+      },
+      {
+       "dossier": "plg_system_cardionet",
+       "type": "plugin",
+       "element": "cardionet",
+       "folder": "system",
+       "client": 0,
+       "version": "2.0.1",
+       "manifeste": "cardionet.xml",
+       "noms": {
+        "fr-FR": "Système - Réglages communs CardioNet",
+        "en-GB": "System - CardioNet common settings"
+       }
+      }
+     ],
+     "en_cours": ""
+    },
+    {
+     "dossier": "pkg_dossiers",
+     "type": "package",
+     "element": "pkg_dossiers",
+     "folder": "",
+     "client": 0,
+     "version": "1.1.8",
+     "manifeste": "pkg_dossiers.xml",
+     "noms": {
+      "fr-FR": "Dossiers administratifs (paquet)",
+      "en-GB": "Administrative files (package)"
+     },
+     "cle": "pkg_dossiers",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [
+      {
+       "dossier": "com_dossiers",
+       "type": "component",
+       "element": "com_dossiers",
+       "folder": "",
+       "client": 1,
+       "version": "1.1.8",
+       "manifeste": "dossiers.xml",
+       "noms": {
+        "fr-FR": "Dossiers administratifs",
+        "en-GB": "Administrative files"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_system_dossiers",
+       "type": "plugin",
+       "element": "dossiers",
+       "folder": "system",
+       "client": 0,
+       "version": "1.1.8",
+       "manifeste": "dossiers.xml",
+       "noms": {
+        "fr-FR": "Système - Dossiers administratifs",
+        "en-GB": "System - Administrative files"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_privacy_dossiers",
+       "type": "plugin",
+       "element": "dossiers",
+       "folder": "privacy",
+       "client": 0,
+       "version": "1.1.8",
+       "manifeste": "dossiers.xml",
+       "noms": {
+        "fr-FR": "Confidentialité - Dossiers administratifs",
+        "en-GB": "Privacy - Administrative files"
+       },
+       "dans_paquet": true
+      }
+     ],
+     "en_cours": ""
+    },
+    {
+     "dossier": "pkg_groupmanager",
+     "type": "package",
+     "element": "pkg_groupmanager",
+     "folder": "",
+     "client": 0,
+     "version": "1.4.1",
+     "manifeste": "pkg_groupmanager.xml",
+     "noms": {
+      "fr-FR": "Gestion des groupes (paquet)",
+      "en-GB": "Group management (package)"
+     },
+     "cle": "pkg_groupmanager",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [
+      {
+       "dossier": "com_groupmanager",
+       "type": "component",
+       "element": "com_groupmanager",
+       "folder": "",
+       "client": 1,
+       "version": "1.4.1",
+       "manifeste": "groupmanager.xml",
+       "noms": {
+        "fr-FR": "Gestion des groupes",
+        "en-GB": "Group Manager"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_user_groupmanager",
+       "type": "plugin",
+       "element": "groupmanager",
+       "folder": "user",
+       "client": 0,
+       "version": "1.4.1",
+       "manifeste": "groupmanager.xml",
+       "noms": {
+        "fr-FR": "Utilisateur - Gestion des groupes",
+        "en-GB": "User - Group Manager"
+       },
+       "dans_paquet": true
+      }
+     ],
+     "en_cours": ""
+    },
+    {
+     "dossier": "pkg_inscription",
+     "type": "package",
+     "element": "pkg_inscription",
+     "folder": "",
+     "client": 0,
+     "version": "1.4.1",
+     "manifeste": "pkg_inscription.xml",
+     "noms": {
+      "fr-FR": "Inscription par entité (paquet)",
+      "en-GB": "Registration by entity (package)"
+     },
+     "cle": "pkg_inscription",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [
+      {
+       "dossier": "com_inscription",
+       "type": "component",
+       "element": "com_inscription",
+       "folder": "",
+       "client": 1,
+       "version": "1.4.1",
+       "manifeste": "inscription.xml",
+       "noms": {
+        "fr-FR": "Inscription par entité",
+        "en-GB": "Entity Registration"
+       },
+       "dans_paquet": true
+      }
+     ],
+     "en_cours": ""
+    },
+    {
+     "dossier": "pkg_stepup",
+     "type": "package",
+     "element": "pkg_stepup",
+     "folder": "",
+     "client": 0,
+     "version": "1.0.2",
+     "manifeste": "pkg_stepup.xml",
+     "noms": {
+      "fr-FR": "Double authentification à la demande",
+      "en-GB": "On-demand two-factor authentication"
+     },
+     "cle": "pkg_stepup",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [
+      {
+       "dossier": "lib_hugstepup",
+       "type": "library",
+       "element": "hugstepup",
+       "folder": "",
+       "client": 0,
+       "version": "1.0.2",
+       "manifeste": "hugstepup.xml",
+       "noms": {
+        "fr-FR": "Bibliothèque HUG - Double authentification à la demande",
+        "en-GB": "HUG library - On-demand two-factor authentication"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_system_stepup",
+       "type": "plugin",
+       "element": "stepup",
+       "folder": "system",
+       "client": 0,
+       "version": "1.0.2",
+       "manifeste": "stepup.xml",
+       "noms": {
+        "fr-FR": "Système - Double authentification à la demande",
+        "en-GB": "System - On-demand two-factor authentication"
+       },
+       "dans_paquet": true
+      }
+     ],
+     "en_cours": ""
+    },
+    {
+     "dossier": "pkg_switchuser",
+     "type": "package",
+     "element": "pkg_switchuser",
+     "folder": "",
+     "client": 0,
+     "version": "1.0.2",
+     "manifeste": "pkg_switchuser.xml",
+     "noms": {
+      "fr-FR": "Connexion en tant que",
+      "en-GB": "Switch user"
+     },
+     "cle": "pkg_switchuser",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [
+      {
+       "dossier": "com_switchuser",
+       "type": "component",
+       "element": "com_switchuser",
+       "folder": "",
+       "client": 1,
+       "version": "1.0.2",
+       "manifeste": "switchuser.xml",
+       "noms": {
+        "fr-FR": "Connexion en tant que",
+        "en-GB": "Switch user"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_system_switchuser",
+       "type": "plugin",
+       "element": "switchuser",
+       "folder": "system",
+       "client": 0,
+       "version": "1.0.2",
+       "manifeste": "switchuser.xml",
+       "noms": {
+        "fr-FR": "Système - Connexion en tant que",
+        "en-GB": "System - Switch user"
+       },
+       "dans_paquet": true
+      }
+     ],
+     "en_cours": ""
+    },
+    {
+     "dossier": "com_userimport",
+     "type": "component",
+     "element": "com_userimport",
+     "folder": "",
+     "client": 1,
+     "version": "1.0.4",
+     "manifeste": "userimport.xml",
+     "noms": {
+      "fr-FR": "Import d’utilisateurs",
+      "en-GB": "User Import"
+     },
+     "cle": "com_userimport",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [],
+     "en_cours": ""
+    },
+    {
+     "dossier": "com_maildomain",
+     "type": "component",
+     "element": "com_maildomain",
+     "folder": "",
+     "client": 1,
+     "version": "1.3.3",
+     "manifeste": "maildomain.xml",
+     "noms": {
+      "fr-FR": "Changement de domaine e-mail",
+      "en-GB": "E-mail Domain Change"
+     },
+     "cle": "com_maildomain",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [],
+     "en_cours": ""
+    },
+    {
+     "dossier": "plg_console_cardionetabsorb",
+     "type": "plugin",
+     "element": "cardionetabsorb",
+     "folder": "console",
+     "client": 0,
+     "version": "1.0.0",
+     "manifeste": "cardionetabsorb.xml",
+     "noms": {
+      "fr-FR": "Console - Absorption des comptes (CardioNet)",
+      "en-GB": "Console - Account absorption (CardioNet)"
+     },
+     "cle": "plg_console_cardionetabsorb",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [],
+     "en_cours": ""
+    },
+    {
+     "dossier": "com_idcheck",
+     "type": "component",
+     "element": "com_idcheck",
+     "folder": "",
+     "client": 1,
+     "version": "1.0.1",
+     "manifeste": "idcheck.xml",
+     "noms": {
+      "fr-FR": "Contrôle des membres",
+      "en-GB": "Member check"
+     },
+     "cle": "com_idcheck",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [],
+     "en_cours": ""
+    },
+    {
+     "dossier": "plg_system_accesslevelguard",
+     "type": "plugin",
+     "element": "accesslevelguard",
+     "folder": "system",
+     "client": 0,
+     "version": "1.0.1",
+     "manifeste": "accesslevelguard.xml",
+     "noms": {
+      "fr-FR": "Système - Garde des niveaux d'accès",
+      "en-GB": "System - Access Level Guard"
+     },
+     "cle": "plg_system_accesslevelguard",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [],
+     "en_cours": ""
+    }
+   ]
+  },
+  {
+   "nom": "Formation et enseignement",
+   "entrees": [
+    {
+     "dossier": "pkg_courses",
+     "type": "package",
+     "element": "pkg_courses",
+     "folder": "",
+     "client": 0,
+     "version": "1.8.5",
+     "manifeste": "pkg_courses.xml",
+     "noms": {
+      "fr-FR": "Formations",
+      "en-GB": "Trainings"
+     },
+     "cle": "pkg_courses",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [
+      {
+       "dossier": "com_courses",
+       "type": "component",
+       "element": "com_courses",
+       "folder": "",
+       "client": 1,
+       "version": "1.8.5",
+       "manifeste": "courses.xml",
+       "noms": {
+        "fr-FR": "Formations",
+        "en-GB": "Trainings"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_task_courses",
+       "type": "plugin",
+       "element": "courses",
+       "folder": "task",
+       "client": 0,
+       "version": "1.8.5",
+       "manifeste": "courses.xml",
+       "noms": {
+        "fr-FR": "Tâche - Formations",
+        "en-GB": "Task - Trainings"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_user_courses",
+       "type": "plugin",
+       "element": "courses",
+       "folder": "user",
+       "client": 0,
+       "version": "1.8.5",
+       "manifeste": "courses.xml",
+       "noms": {
+        "fr-FR": "Utilisateur - Formations",
+        "en-GB": "User - Trainings"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_system_courses",
+       "type": "plugin",
+       "element": "courses",
+       "folder": "system",
+       "client": 0,
+       "version": "1.8.5",
+       "manifeste": "courses.xml",
+       "noms": {
+        "fr-FR": "Système - Formations (fin de parcours)",
+        "en-GB": "System - Courses (path completion)"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "mod_courses_upcoming",
+       "type": "module",
+       "element": "mod_courses_upcoming",
+       "folder": "",
+       "client": 0,
+       "version": "1.8.5",
+       "manifeste": "mod_courses_upcoming.xml",
+       "noms": {
+        "fr-FR": "Formations – mes prochaines formations",
+        "en-GB": "Trainings – my upcoming trainings"
+       },
+       "dans_paquet": true
+      }
+     ],
+     "en_cours": ""
+    },
+    {
+     "dossier": "com_certgen",
+     "type": "component",
+     "element": "com_certgen",
+     "folder": "",
+     "client": 1,
+     "version": "2.3.0",
+     "manifeste": "certgen.xml",
+     "noms": {
+      "fr-FR": "Certificats",
+      "en-GB": "Certificates"
+     },
+     "cle": "com_certgen",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [],
+     "en_cours": ""
+    },
+    {
+     "dossier": "pkg_tutorat",
+     "type": "package",
+     "element": "pkg_tutorat",
+     "folder": "",
+     "client": 0,
+     "version": "1.2.0",
+     "manifeste": "pkg_tutorat.xml",
+     "noms": {
+      "fr-FR": "Tutorat CC (paquet)",
+      "en-GB": "CC tutoring (package)"
+     },
+     "cle": "pkg_tutorat",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [
+      {
+       "dossier": "com_tutorat",
+       "type": "component",
+       "element": "com_tutorat",
+       "folder": "",
+       "client": 1,
+       "version": "1.2.0",
+       "manifeste": "tutorat.xml",
+       "noms": {
+        "fr-FR": "Tutorat CC",
+        "en-GB": "CC tutoring"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_task_tutorat",
+       "type": "plugin",
+       "element": "tutorat",
+       "folder": "task",
+       "client": 0,
+       "version": "1.2.0",
+       "manifeste": "tutorat.xml",
+       "noms": {
+        "fr-FR": "Tâche - Tutorat",
+        "en-GB": "Task - Tutorat"
+       },
+       "dans_paquet": true
+      }
+     ],
+     "en_cours": ""
+    },
+    {
+     "dossier": "pkg_datepoll",
+     "type": "package",
+     "element": "pkg_datepoll",
+     "folder": "",
+     "client": 0,
+     "version": "1.2.1",
+     "manifeste": "pkg_datepoll.xml",
+     "noms": {
+      "fr-FR": "Planificateur (sondages de dates)",
+      "en-GB": "Scheduler (date polls)"
+     },
+     "cle": "pkg_datepoll",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [
+      {
+       "dossier": "com_datepoll",
+       "type": "component",
+       "element": "com_datepoll",
+       "folder": "",
+       "client": 1,
+       "version": "1.2.1",
+       "manifeste": "datepoll.xml",
+       "noms": {
+        "fr-FR": "Planificateur",
+        "en-GB": "Scheduler"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_task_datepoll",
+       "type": "plugin",
+       "element": "datepoll",
+       "folder": "task",
+       "client": 0,
+       "version": "1.2.1",
+       "manifeste": "datepoll.xml",
+       "noms": {
+        "fr-FR": "Tâche - Planificateur",
+        "en-GB": "Task - Scheduler"
+       },
+       "dans_paquet": true
+      }
+     ],
+     "en_cours": ""
+    }
+   ]
+  },
+  {
+   "nom": "Documents et horaires",
+   "entrees": [
+    {
+     "dossier": "pkg_docvault",
+     "type": "package",
+     "element": "pkg_docvault",
+     "folder": "",
+     "client": 0,
+     "version": "0.2.0",
+     "manifeste": "pkg_docvault.xml",
+     "noms": {
+      "fr-FR": "DocVault",
+      "en-GB": "DocVault"
+     },
+     "cle": "pkg_docvault",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [
+      {
+       "dossier": "com_docvault",
+       "type": "component",
+       "element": "com_docvault",
+       "folder": "",
+       "client": 1,
+       "version": "0.2.0",
+       "manifeste": "docvault.xml",
+       "noms": {
+        "fr-FR": "DocVault",
+        "en-GB": "DocVault"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "mod_docvault",
+       "type": "module",
+       "element": "mod_docvault",
+       "folder": "",
+       "client": 0,
+       "version": "0.2.0",
+       "manifeste": "mod_docvault.xml",
+       "noms": {
+        "fr-FR": "DocVault – Documents",
+        "en-GB": "DocVault – Documents"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_system_docvault",
+       "type": "plugin",
+       "element": "docvault",
+       "folder": "system",
+       "client": 0,
+       "version": "0.2.0",
+       "manifeste": "docvault.xml",
+       "noms": {
+        "fr-FR": "Système - DocVault",
+        "en-GB": "System - DocVault"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_task_docvault",
+       "type": "plugin",
+       "element": "docvault",
+       "folder": "task",
+       "client": 0,
+       "version": "0.2.0",
+       "manifeste": "docvault.xml",
+       "noms": {
+        "fr-FR": "Tâche - DocVault",
+        "en-GB": "Task - DocVault"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_privacy_docvault",
+       "type": "plugin",
+       "element": "docvault",
+       "folder": "privacy",
+       "client": 0,
+       "version": "0.2.0",
+       "manifeste": "docvault.xml",
+       "noms": {
+        "fr-FR": "Confidentialité - DocVault",
+        "en-GB": "Privacy - DocVault"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_finder_docvault",
+       "type": "plugin",
+       "element": "docvault",
+       "folder": "finder",
+       "client": 0,
+       "version": "0.2.0",
+       "manifeste": "docvault.xml",
+       "noms": {
+        "fr-FR": "Recherche avancée - DocVault",
+        "en-GB": "Smart Search - DocVault"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_editors-xtd_docvault",
+       "type": "plugin",
+       "element": "docvault",
+       "folder": "editors-xtd",
+       "client": 0,
+       "version": "0.2.0",
+       "manifeste": "docvault.xml",
+       "noms": {
+        "fr-FR": "Bouton - DocVault",
+        "en-GB": "Button - DocVault"
+       },
+       "dans_paquet": true
+      }
+     ],
+     "en_cours": ""
+    },
+    {
+     "dossier": "pkg_docmannotify",
+     "type": "package",
+     "element": "pkg_docmannotify",
+     "folder": "",
+     "client": 0,
+     "version": "1.0.0",
+     "manifeste": "pkg_docmannotify.xml",
+     "noms": {
+      "fr-FR": "DOCman – Notifications par catégorie",
+      "en-GB": "DOCman – Category Notifications"
+     },
+     "cle": "pkg_docmannotify",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [
+      {
+       "dossier": "com_docmannotify",
+       "type": "component",
+       "element": "com_docmannotify",
+       "folder": "",
+       "client": 1,
+       "version": "1.0.0",
+       "manifeste": "docmannotify.xml",
+       "noms": {
+        "fr-FR": "DOCman – Notifications",
+        "en-GB": "DOCman – Notifications"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_docman_docmannotify",
+       "type": "plugin",
+       "element": "docmannotify",
+       "folder": "docman",
+       "client": 0,
+       "version": "1.0.0",
+       "manifeste": "docmannotify.xml",
+       "noms": {
+        "fr-FR": "DOCman - Notifications par catégorie",
+        "en-GB": "DOCman - Category Notifications"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_files_docmannotify",
+       "type": "plugin",
+       "element": "docmannotify",
+       "folder": "files",
+       "client": 0,
+       "version": "1.0.0",
+       "manifeste": "docmannotify.xml",
+       "noms": {
+        "fr-FR": "Fichiers - DOCman Notifications par catégorie",
+        "en-GB": "Files - DOCman Category Notifications"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_task_docmannotify",
+       "type": "plugin",
+       "element": "docmannotify",
+       "folder": "task",
+       "client": 0,
+       "version": "1.0.0",
+       "manifeste": "docmannotify.xml",
+       "noms": {
+        "fr-FR": "Tâche - DOCman Notifications par catégorie",
+        "en-GB": "Task - DOCman Category Notifications"
+       },
+       "dans_paquet": true
+      }
+     ],
+     "en_cours": ""
+    },
+    {
+     "dossier": "plg_system_jtguard",
+     "type": "plugin",
+     "element": "jtguard",
+     "folder": "system",
+     "client": 0,
+     "version": "1.0.2",
+     "manifeste": "jtguard.xml",
+     "noms": {
+      "fr-FR": "Système - Garde Joomlatools",
+      "en-GB": "System - Joomlatools Guard"
+     },
+     "cle": "plg_system_jtguard",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [],
+     "en_cours": ""
+    },
+    {
+     "dossier": "plg_system_docmaninventory",
+     "type": "plugin",
+     "element": "docmaninventory",
+     "folder": "system",
+     "client": 0,
+     "version": "1.0.0",
+     "manifeste": "docmaninventory.xml",
+     "noms": {
+      "fr-FR": "Système - Inventaire DOCman",
+      "en-GB": "System - DOCman Inventory"
+     },
+     "cle": "plg_system_docmaninventory",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [],
+     "en_cours": ""
+    },
+    {
+     "dossier": "pkg_planning_amb",
+     "type": "package",
+     "element": "pkg_planning_amb",
+     "folder": "",
+     "client": 0,
+     "version": "1.7.0",
+     "manifeste": "pkg_planning_amb.xml",
+     "noms": {
+      "fr-FR": "Horaires ambulanciers SMUR",
+      "en-GB": "SMUR ambulance schedules"
+     },
+     "cle": "pkg_planning_amb",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [
+      {
+       "dossier": "com_planning_amb",
+       "type": "component",
+       "element": "com_planning_amb",
+       "folder": "",
+       "client": 1,
+       "version": "1.7.0",
+       "manifeste": "planning_amb.xml",
+       "noms": {
+        "fr-FR": "Horaires ambulanciers SMUR",
+        "en-GB": "SMUR ambulance schedules"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_task_planningamb",
+       "type": "plugin",
+       "element": "planningamb",
+       "folder": "task",
+       "client": 0,
+       "version": "1.7.0",
+       "manifeste": "planningamb.xml",
+       "noms": {
+        "fr-FR": "Tâche - Horaires ambulanciers SMUR",
+        "en-GB": "Task - SMUR ambulance schedules"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_webservices_planningamb",
+       "type": "plugin",
+       "element": "planningamb",
+       "folder": "webservices",
+       "client": 0,
+       "version": "1.7.0",
+       "manifeste": "planningamb.xml",
+       "noms": {
+        "fr-FR": "Web Services - Horaires ambulanciers SMUR",
+        "en-GB": "Web Services - SMUR ambulance schedules"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_docman_planningamb",
+       "type": "plugin",
+       "element": "planningamb",
+       "folder": "docman",
+       "client": 0,
+       "version": "1.7.0",
+       "manifeste": "planningamb.xml",
+       "noms": {
+        "fr-FR": "DOCman - Horaires ambulanciers SMUR",
+        "en-GB": "DOCman - SMUR ambulance schedules"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "mod_planning_amb_today",
+       "type": "module",
+       "element": "mod_planning_amb_today",
+       "folder": "",
+       "client": 0,
+       "version": "1.7.0",
+       "manifeste": "mod_planning_amb_today.xml",
+       "noms": {
+        "fr-FR": "Horaires SMUR – en service aujourd’hui",
+        "en-GB": "SMUR schedules – on duty today"
+       },
+       "dans_paquet": true
+      }
+     ],
+     "en_cours": ""
+    },
+    {
+     "dossier": "pkg_planning_acs",
+     "type": "package",
+     "element": "pkg_planning_acs",
+     "folder": "",
+     "client": 0,
+     "version": "1.0.0",
+     "manifeste": "pkg_planning_acs.xml",
+     "noms": {
+      "fr-FR": "Planning ACS",
+      "en-GB": "ACS roster"
+     },
+     "cle": "pkg_planning_acs",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [
+      {
+       "dossier": "com_planning_acs",
+       "type": "component",
+       "element": "com_planning_acs",
+       "folder": "",
+       "client": 1,
+       "version": "1.0.0",
+       "manifeste": "planning_acs.xml",
+       "noms": {
+        "fr-FR": "Planning ACS",
+        "en-GB": "ACS roster"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_task_planningacs",
+       "type": "plugin",
+       "element": "planningacs",
+       "folder": "task",
+       "client": 0,
+       "version": "1.0.0",
+       "manifeste": "planningacs.xml",
+       "noms": {
+        "fr-FR": "Tâche - Planning ACS",
+        "en-GB": "Task - ACS roster"
+       },
+       "dans_paquet": true
+      }
+     ],
+     "en_cours": ""
+    },
+    {
+     "dossier": "pkg_planning_cadres",
+     "type": "package",
+     "element": "pkg_planning_cadres",
+     "folder": "",
+     "client": 0,
+     "version": "1.3.0",
+     "manifeste": "pkg_planning_cadres.xml",
+     "noms": {
+      "fr-FR": "Planning des cadres",
+      "en-GB": "Senior doctors roster"
+     },
+     "cle": "pkg_planning_cadres",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [
+      {
+       "dossier": "com_planning_cadres",
+       "type": "component",
+       "element": "com_planning_cadres",
+       "folder": "",
+       "client": 1,
+       "version": "1.3.0",
+       "manifeste": "planning_cadres.xml",
+       "noms": {
+        "fr-FR": "Planning des cadres",
+        "en-GB": "Senior doctors roster"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_task_planningcadres",
+       "type": "plugin",
+       "element": "planningcadres",
+       "folder": "task",
+       "client": 0,
+       "version": "1.3.0",
+       "manifeste": "planningcadres.xml",
+       "noms": {
+        "fr-FR": "Tâche - Planning des cadres",
+        "en-GB": "Task - Senior doctors roster"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_webservices_planningcadres",
+       "type": "plugin",
+       "element": "planningcadres",
+       "folder": "webservices",
+       "client": 0,
+       "version": "1.3.0",
+       "manifeste": "planningcadres.xml",
+       "noms": {
+        "fr-FR": "Services web - Planning des cadres",
+        "en-GB": "Web Services - Senior doctors roster"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "mod_planning_cadres_oncall",
+       "type": "module",
+       "element": "mod_planning_cadres_oncall",
+       "folder": "",
+       "client": 0,
+       "version": "1.3.0",
+       "manifeste": "mod_planning_cadres_oncall.xml",
+       "noms": {
+        "fr-FR": "Planning des cadres - De garde",
+        "en-GB": "Senior doctors roster - On duty"
+       },
+       "dans_paquet": true
+      }
+     ],
+     "en_cours": ""
+    }
+   ]
+  },
+  {
+   "nom": "Recherche clinique",
+   "entrees": [
+    {
+     "dossier": "pkg_crf",
+     "type": "package",
+     "element": "pkg_crf",
+     "folder": "",
+     "client": 0,
+     "version": "1.11.1",
+     "manifeste": "pkg_crf.xml",
+     "noms": {
+      "fr-FR": "pkg_crf",
+      "en-GB": "pkg_crf"
+     },
+     "cle": "pkg_crf",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [
+      {
+       "dossier": "com_crf",
+       "type": "component",
+       "element": "com_crf",
+       "folder": "",
+       "client": 1,
+       "version": "1.11.1",
+       "manifeste": "crf.xml",
+       "noms": {
+        "fr-FR": "CRF – Formulaires de recherche",
+        "en-GB": "CRF – Research forms"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_user_crfsecurity",
+       "type": "plugin",
+       "element": "crfsecurity",
+       "folder": "user",
+       "client": 0,
+       "version": "1.10.7",
+       "manifeste": "crfsecurity.xml",
+       "noms": {
+        "fr-FR": "Utilisateur - Sécurité CRF",
+        "en-GB": "User - CRF Security"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_task_crfintegrity",
+       "type": "plugin",
+       "element": "crfintegrity",
+       "folder": "task",
+       "client": 0,
+       "version": "1.11.1",
+       "manifeste": "crfintegrity.xml",
+       "noms": {
+        "fr-FR": "Tâche - CRF - Vérification du journal",
+        "en-GB": "Task - CRF - Audit log verification"
+       },
+       "dans_paquet": true
+      }
+     ],
+     "en_cours": ""
+    }
+   ]
+  },
+  {
+   "nom": "Site et présentation",
+   "entrees": [
+    {
+     "dossier": "pkg_cardionet",
+     "type": "package",
+     "element": "pkg_cardionet",
+     "folder": "",
+     "client": 0,
+     "version": "1.3.1",
+     "manifeste": "pkg_cardionet.xml",
+     "noms": {
+      "fr-FR": "CardioNET – template et menu",
+      "en-GB": "CardioNET – template and menu"
+     },
+     "cle": "pkg_cardionet",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [
+      {
+       "dossier": "tpl_cardionet",
+       "type": "template",
+       "element": "cardionet",
+       "folder": "",
+       "client": 0,
+       "version": "1.3.1",
+       "manifeste": "templateDetails.xml",
+       "noms": {
+        "fr-FR": "cardionet",
+        "en-GB": "cardionet"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "mod_cardionetmenu",
+       "type": "module",
+       "element": "mod_cardionetmenu",
+       "folder": "",
+       "client": 0,
+       "version": "1.1.0",
+       "manifeste": "mod_cardionetmenu.xml",
+       "noms": {
+        "fr-FR": "Menu CardioNET",
+        "en-GB": "CardioNET Menu"
+       },
+       "dans_paquet": true
+      }
+     ],
+     "en_cours": ""
+    },
+    {
+     "dossier": "pkg_smurstages",
+     "type": "package",
+     "element": "pkg_smurstages",
+     "folder": "",
+     "client": 0,
+     "version": "1.8.0",
+     "manifeste": "pkg_smurstages.xml",
+     "noms": {
+      "fr-FR": "Stages SMUR (paquet)",
+      "en-GB": "SMUR internships (package)"
+     },
+     "cle": "pkg_smurstages",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [
+      {
+       "dossier": "com_smurstages",
+       "type": "component",
+       "element": "com_smurstages",
+       "folder": "",
+       "client": 1,
+       "version": "1.8.0",
+       "manifeste": "smurstages.xml",
+       "noms": {
+        "fr-FR": "Stages SMUR",
+        "en-GB": "SMUR Internships"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_webservices_smurstages",
+       "type": "plugin",
+       "element": "smurstages",
+       "folder": "webservices",
+       "client": 0,
+       "version": "1.8.0",
+       "manifeste": "smurstages.xml",
+       "noms": {
+        "fr-FR": "Web Services - Stages SMUR",
+        "en-GB": "Web Services - SMUR Internships"
+       },
+       "dans_paquet": true
+      }
+     ],
+     "en_cours": ""
+    },
+    {
+     "dossier": "pkg_gridtables",
+     "type": "package",
+     "element": "pkg_gridtables",
+     "folder": "",
+     "client": 0,
+     "version": "1.0.1",
+     "manifeste": "pkg_gridtables.xml",
+     "noms": {
+      "fr-FR": "Grilles (paquet)",
+      "en-GB": "Grid tables (package)"
+     },
+     "cle": "pkg_gridtables",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [
+      {
+       "dossier": "com_gridtables",
+       "type": "component",
+       "element": "com_gridtables",
+       "folder": "",
+       "client": 1,
+       "version": "1.0.1",
+       "manifeste": "gridtables.xml",
+       "noms": {
+        "fr-FR": "Grilles",
+        "en-GB": "Grid tables"
+       },
+       "dans_paquet": true
+      }
+     ],
+     "en_cours": ""
+    },
+    {
+     "dossier": "mod_extversions",
+     "type": "module",
+     "element": "mod_extversions",
+     "folder": "",
+     "client": 1,
+     "version": "1.1.0",
+     "manifeste": "mod_extversions.xml",
+     "noms": {
+      "fr-FR": "Versions des extensions maison",
+      "en-GB": "In-house extension versions"
+     },
+     "cle": "mod_extversions",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [],
+     "en_cours": ""
+    }
+   ]
+  },
+  {
+   "nom": "Matériel",
+   "entrees": [
+    {
+     "dossier": "pkg_inventaires",
+     "type": "package",
+     "element": "pkg_inventaires",
+     "folder": "",
+     "client": 0,
+     "version": "1.0.0",
+     "manifeste": "pkg_inventaires.xml",
+     "noms": {
+      "fr-FR": "Inventaires (paquet)",
+      "en-GB": "Inventories (package)"
+     },
+     "cle": "pkg_inventaires",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [
+      {
+       "dossier": "com_inventaires",
+       "type": "component",
+       "element": "com_inventaires",
+       "folder": "",
+       "client": 1,
+       "version": "1.0.0",
+       "manifeste": "inventaires.xml",
+       "noms": {
+        "fr-FR": "Inventaires",
+        "en-GB": "Inventories"
+       },
+       "dans_paquet": true
+      }
+     ],
+     "en_cours": ""
+    }
+   ]
+  }
+ ],
+ "retirees": [
+  {
+   "nom": "lib_hugusers",
+   "type": "library",
+   "element": "hugusers",
+   "folder": "",
+   "client": 0,
+   "motif": {
+    "fr-FR": "Renommée lib_cardionet le 25.10.2026 (2.0.0) : retirée par l’installateur commun ; un ancien zip de paquet la réinstalle.",
+    "en-GB": "Renamed lib_cardionet on 25.10.2026 (2.0.0): removed by the shared installer; an old package zip reinstalls it."
+   }
+  },
+  {
+   "nom": "plg_task_hugmaintenance",
+   "type": "plugin",
+   "element": "hugmaintenance",
+   "folder": "task",
+   "client": 0,
+   "motif": {
+    "fr-FR": "Remplacé par plg_task_cardionetmaintenance (lib_cardionet 2.0.0, tâche « Maintenance CardioNet »).",
+    "en-GB": "Replaced by plg_task_cardionetmaintenance (lib_cardionet 2.0.0, “Maintenance CardioNet” task)."
+   }
+  },
+  {
+   "nom": "plg_authentication_tutorat",
+   "type": "plugin",
+   "element": "tutorat",
+   "folder": "authentication",
+   "client": 0,
+   "motif": {
+    "fr-FR": "Retiré en pkg_tutorat 1.1.0 (désinstallé par son script).",
+    "en-GB": "Removed in pkg_tutorat 1.1.0 (uninstalled by its script)."
+   }
+  },
+  {
+   "nom": "com_certificates",
+   "type": "component",
+   "element": "com_certificates",
+   "folder": "",
+   "client": 1,
+   "motif": {
+    "fr-FR": "Abandonné (2025), remplacé par com_certgen.",
+    "en-GB": "Abandoned (2025), replaced by com_certgen."
+   }
+  },
+  {
+   "nom": "pkg_formation",
+   "type": "package",
+   "element": "pkg_formation",
+   "folder": "",
+   "client": 0,
+   "motif": {
+    "fr-FR": "Archivé le 27.10.2026 : parcours repris dans pkg_courses 1.7.0 (Formations › Parcours) ; à désinstaller, aucune migration de ses données.",
+    "en-GB": "Archived on 27.10.2026: learning paths taken over by pkg_courses 1.7.0 (Courses › Paths); uninstall it, its data is not migrated."
+   }
+  },
+  {
+   "nom": "com_formation",
+   "type": "component",
+   "element": "com_formation",
+   "folder": "",
+   "client": 1,
+   "motif": {
+    "fr-FR": "Archivé le 27.10.2026 avec pkg_formation : parcours repris dans pkg_courses 1.7.0.",
+    "en-GB": "Archived on 27.10.2026 with pkg_formation: learning paths taken over by pkg_courses 1.7.0."
+   }
+  },
+  {
+   "nom": "plg_system_formation",
+   "type": "plugin",
+   "element": "formation",
+   "folder": "system",
+   "client": 0,
+   "motif": {
+    "fr-FR": "Archivé le 27.10.2026 avec pkg_formation : remplacé par plg_system_courses (pkg_courses 1.7.0).",
+    "en-GB": "Archived on 27.10.2026 with pkg_formation: replaced by plg_system_courses (pkg_courses 1.7.0)."
+   }
+  }
+ ]
+}
