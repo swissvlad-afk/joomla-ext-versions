@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-10-29T20:51:04+00:00",
- "commit": "84cccb0",
- "commit_date": "2026-10-29T21:50:51+01:00",
+ "genere": "2026-10-29T20:57:00+00:00",
+ "commit": "66f5c7c",
+ "commit_date": "2026-10-29T21:56:46+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -405,7 +405,7 @@
        "element": "com_courses",
        "folder": "",
        "client": 1,
-       "version": "",
+       "version": "1.9.0",
        "manifeste": "courses.xml",
        "noms": {
         "fr-FR": "Formations",
@@ -419,7 +419,7 @@
        "element": "courses",
        "folder": "task",
        "client": 0,
-       "version": "",
+       "version": "1.9.0",
        "manifeste": "courses.xml",
        "noms": {
         "fr-FR": "Tâche - Formations",
@@ -433,7 +433,7 @@
        "element": "courses",
        "folder": "user",
        "client": 0,
-       "version": "",
+       "version": "1.9.0",
        "manifeste": "courses.xml",
        "noms": {
         "fr-FR": "Utilisateur - Formations",
@@ -447,7 +447,7 @@
        "element": "courses",
        "folder": "system",
        "client": 0,
-       "version": "",
+       "version": "1.9.0",
        "manifeste": "courses.xml",
        "noms": {
         "fr-FR": "Système - Formations (fin de parcours)",
@@ -461,7 +461,7 @@
        "element": "mod_courses_upcoming",
        "folder": "",
        "client": 0,
-       "version": "",
+       "version": "1.9.0",
        "manifeste": "mod_courses_upcoming.xml",
        "noms": {
         "fr-FR": "Formations – mes prochaines formations",
@@ -470,7 +470,7 @@
        "dans_paquet": true
       }
      ],
-     "en_cours": "1.9.0"
+     "en_cours": ""
     },
     {
      "dossier": "com_certgen",
