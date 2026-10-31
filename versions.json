@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-10-31T09:44:12+00:00",
- "commit": "7ca5c07",
- "commit_date": "2026-10-31T10:44:00+01:00",
+ "genere": "2026-10-31T09:46:12+00:00",
+ "commit": "16505a5",
+ "commit_date": "2026-10-31T10:46:00+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -857,7 +857,7 @@
        "element": "com_planning_amb",
        "folder": "",
        "client": 1,
-       "version": "",
+       "version": "1.8.0",
        "manifeste": "planning_amb.xml",
        "noms": {
         "fr-FR": "Horaires ambulanciers SMUR",
@@ -871,7 +871,7 @@
        "element": "planningamb",
        "folder": "task",
        "client": 0,
-       "version": "",
+       "version": "1.8.0",
        "manifeste": "planningamb.xml",
        "noms": {
         "fr-FR": "Tâche - Horaires ambulanciers SMUR",
@@ -885,7 +885,7 @@
        "element": "planningamb",
        "folder": "webservices",
        "client": 0,
-       "version": "",
+       "version": "1.8.0",
        "manifeste": "planningamb.xml",
        "noms": {
         "fr-FR": "Web Services - Horaires ambulanciers SMUR",
@@ -899,7 +899,7 @@
        "element": "planningamb",
        "folder": "docman",
        "client": 0,
-       "version": "",
+       "version": "1.8.0",
        "manifeste": "planningamb.xml",
        "noms": {
         "fr-FR": "DOCman - Horaires ambulanciers SMUR",
@@ -913,7 +913,7 @@
        "element": "planningamb",
        "folder": "courses",
        "client": 0,
-       "version": "",
+       "version": "1.8.0",
        "manifeste": "planningamb.xml",
        "noms": {
         "fr-FR": "Formations - Horaires ambulanciers SMUR",
@@ -927,7 +927,7 @@
        "element": "mod_planning_amb_today",
        "folder": "",
        "client": 0,
-       "version": "",
+       "version": "1.8.0",
        "manifeste": "mod_planning_amb_today.xml",
        "noms": {
         "fr-FR": "Horaires SMUR – en service aujourd’hui",
@@ -936,7 +936,7 @@
        "dans_paquet": true
       }
      ],
-     "en_cours": "1.8.0"
+     "en_cours": ""
     },
     {
      "dossier": "pkg_planning_acs",
