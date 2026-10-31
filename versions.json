@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-10-31T09:41:16+00:00",
- "commit": "5c0e3ec",
- "commit_date": "2026-10-31T10:41:01+01:00",
+ "genere": "2026-10-31T09:44:12+00:00",
+ "commit": "7ca5c07",
+ "commit_date": "2026-10-31T10:44:00+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -841,7 +841,7 @@
      "element": "pkg_planning_amb",
      "folder": "",
      "client": 0,
-     "version": "1.7.0",
+     "version": "1.8.0",
      "manifeste": "pkg_planning_amb.xml",
      "noms": {
       "fr-FR": "Horaires ambulanciers SMUR",
