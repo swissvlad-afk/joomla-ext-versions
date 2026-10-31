@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-10-31T10:53:15+00:00",
- "commit": "e9b4c51",
- "commit_date": "2026-10-31T11:53:01+01:00",
+ "genere": "2026-10-31T12:06:32+00:00",
+ "commit": "97e26b1",
+ "commit_date": "2026-10-31T13:06:17+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -991,7 +991,7 @@
      "element": "pkg_planning_cadres",
      "folder": "",
      "client": 0,
-     "version": "1.4.0",
+     "version": "1.5.0",
      "manifeste": "pkg_planning_cadres.xml",
      "noms": {
       "fr-FR": "Planning des cadres",
@@ -1007,7 +1007,7 @@
        "element": "com_planning_cadres",
        "folder": "",
        "client": 1,
-       "version": "1.4.0",
+       "version": "1.5.0",
        "manifeste": "planning_cadres.xml",
        "noms": {
         "fr-FR": "Planning des cadres",
@@ -1021,7 +1021,7 @@
        "element": "planningcadres",
        "folder": "task",
        "client": 0,
-       "version": "1.4.0",
+       "version": "1.5.0",
        "manifeste": "planningcadres.xml",
        "noms": {
         "fr-FR": "Tâche - Planning des cadres",
@@ -1035,11 +1035,25 @@
        "element": "planningcadres",
        "folder": "webservices",
        "client": 0,
-       "version": "1.4.0",
+       "version": "1.5.0",
        "manifeste": "planningcadres.xml",
        "noms": {
         "fr-FR": "Services web - Planning des cadres",
         "en-GB": "Web Services - Senior doctors roster"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_courses_planningcadres",
+       "type": "plugin",
+       "element": "planningcadres",
+       "folder": "courses",
+       "client": 0,
+       "version": "1.5.0",
+       "manifeste": "planningcadres.xml",
+       "noms": {
+        "fr-FR": "Formations - Planning des cadres",
+        "en-GB": "Courses - Senior doctors roster"
        },
        "dans_paquet": true
       },
@@ -1049,7 +1063,7 @@
        "element": "mod_planning_cadres_oncall",
        "folder": "",
        "client": 0,
-       "version": "1.4.0",
+       "version": "1.5.0",
        "manifeste": "mod_planning_cadres_oncall.xml",
        "noms": {
         "fr-FR": "Planning des cadres - De garde",
