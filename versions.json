@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-10-31T19:44:57+00:00",
- "commit": "24c79a1",
- "commit_date": "2026-10-31T20:44:44+01:00",
+ "genere": "2026-10-31T20:13:53+00:00",
+ "commit": "f7326ff",
+ "commit_date": "2026-10-31T21:13:37+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -200,7 +200,7 @@
      "element": "pkg_stepup",
      "folder": "",
      "client": 0,
-     "version": "1.0.2",
+     "version": "1.0.3",
      "manifeste": "pkg_stepup.xml",
      "noms": {
       "fr-FR": "Double authentification à la demande",
@@ -216,7 +216,7 @@
        "element": "hugstepup",
        "folder": "",
        "client": 0,
-       "version": "",
+       "version": "1.0.3",
        "manifeste": "hugstepup.xml",
        "noms": {
         "fr-FR": "Bibliothèque HUG - Double authentification à la demande",
@@ -230,7 +230,7 @@
        "element": "stepup",
        "folder": "system",
        "client": 0,
-       "version": "",
+       "version": "1.0.3",
        "manifeste": "stepup.xml",
        "noms": {
         "fr-FR": "Système - Double authentification à la demande",
@@ -239,7 +239,7 @@
        "dans_paquet": true
       }
      ],
-     "en_cours": "1.0.3"
+     "en_cours": ""
     },
     {
      "dossier": "pkg_switchuser",
