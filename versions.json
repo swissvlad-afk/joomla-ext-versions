@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-10-31T09:17:51+00:00",
- "commit": "4f3ae70",
- "commit_date": "2026-10-31T10:17:29+01:00",
+ "genere": "2026-10-31T09:28:33+00:00",
+ "commit": "80bd311",
+ "commit_date": "2026-10-31T10:27:51+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -373,6 +373,24 @@
       "en-GB": "System - Access Level Guard"
      },
      "cle": "plg_system_accesslevelguard",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [],
+     "en_cours": ""
+    },
+    {
+     "dossier": "plg_system_loginredirect",
+     "type": "plugin",
+     "element": "loginredirect",
+     "folder": "system",
+     "client": 0,
+     "version": "1.0.0",
+     "manifeste": "loginredirect.xml",
+     "noms": {
+      "fr-FR": "Système - Redirection à la connexion",
+      "en-GB": "System - Login Redirect"
+     },
+     "cle": "plg_system_loginredirect",
      "sites": "",
      "plus_maintenue": "",
      "membres": [],
