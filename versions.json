@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-10-31T09:46:12+00:00",
- "commit": "16505a5",
- "commit_date": "2026-10-31T10:46:00+01:00",
+ "genere": "2026-10-31T10:25:56+00:00",
+ "commit": "4c2c41d",
+ "commit_date": "2026-10-31T11:25:41+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -1007,7 +1007,7 @@
        "element": "com_planning_cadres",
        "folder": "",
        "client": 1,
-       "version": "",
+       "version": "1.4.0",
        "manifeste": "planning_cadres.xml",
        "noms": {
         "fr-FR": "Planning des cadres",
@@ -1021,7 +1021,7 @@
        "element": "planningcadres",
        "folder": "task",
        "client": 0,
-       "version": "",
+       "version": "1.4.0",
        "manifeste": "planningcadres.xml",
        "noms": {
         "fr-FR": "Tâche - Planning des cadres",
@@ -1035,7 +1035,7 @@
        "element": "planningcadres",
        "folder": "webservices",
        "client": 0,
-       "version": "",
+       "version": "1.4.0",
        "manifeste": "planningcadres.xml",
        "noms": {
         "fr-FR": "Services web - Planning des cadres",
@@ -1049,7 +1049,7 @@
        "element": "mod_planning_cadres_oncall",
        "folder": "",
        "client": 0,
-       "version": "",
+       "version": "1.4.0",
        "manifeste": "mod_planning_cadres_oncall.xml",
        "noms": {
         "fr-FR": "Planning des cadres - De garde",
@@ -1058,7 +1058,7 @@
        "dans_paquet": true
       }
      ],
-     "en_cours": "1.4.0"
+     "en_cours": ""
     }
    ]
   },
