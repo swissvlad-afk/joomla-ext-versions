@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-04T13:58:33+00:00",
- "commit": "6235e9e",
- "commit_date": "2026-11-04T14:57:42+01:00",
+ "genere": "2026-11-04T14:22:16+00:00",
+ "commit": "63e3f2a",
+ "commit_date": "2026-11-04T15:22:03+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -59,7 +59,7 @@
      "element": "pkg_dossiers",
      "folder": "",
      "client": 0,
-     "version": "1.2.0",
+     "version": "1.2.1",
      "manifeste": "pkg_dossiers.xml",
      "noms": {
       "fr-FR": "Dossiers administratifs (paquet)",
@@ -75,7 +75,7 @@
        "element": "com_dossiers",
        "folder": "",
        "client": 1,
-       "version": "1.2.0",
+       "version": "1.2.1",
        "manifeste": "dossiers.xml",
        "noms": {
         "fr-FR": "Dossiers administratifs",
