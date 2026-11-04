@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-04T15:24:50+00:00",
- "commit": "9eccebd",
- "commit_date": "2026-11-04T16:23:54+01:00",
+ "genere": "2026-11-04T17:18:00+00:00",
+ "commit": "7ef9939",
+ "commit_date": "2026-11-04T18:15:17+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -944,7 +944,7 @@
      "element": "pkg_planning_acs",
      "folder": "",
      "client": 0,
-     "version": "1.4.0",
+     "version": "1.5.0",
      "manifeste": "pkg_planning_acs.xml",
      "noms": {
       "fr-FR": "Planning ACS",
@@ -960,7 +960,7 @@
        "element": "com_planning_acs",
        "folder": "",
        "client": 1,
-       "version": "",
+       "version": "1.5.0",
        "manifeste": "planning_acs.xml",
        "noms": {
         "fr-FR": "Planning ACS",
@@ -974,7 +974,7 @@
        "element": "planningacs",
        "folder": "task",
        "client": 0,
-       "version": "",
+       "version": "1.5.0",
        "manifeste": "planningacs.xml",
        "noms": {
         "fr-FR": "Tâche - Planning ACS",
@@ -983,7 +983,7 @@
        "dans_paquet": true
       }
      ],
-     "en_cours": "1.5.0"
+     "en_cours": ""
     },
     {
      "dossier": "pkg_planning_cadres",
