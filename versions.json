@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-04T14:36:36+00:00",
- "commit": "901129b",
- "commit_date": "2026-11-04T15:36:20+01:00",
+ "genere": "2026-11-04T14:52:29+00:00",
+ "commit": "dccdd3d",
+ "commit_date": "2026-11-04T15:52:10+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -613,7 +613,7 @@
      "element": "pkg_docvault",
      "folder": "",
      "client": 0,
-     "version": "0.2.0",
+     "version": "0.2.1",
      "manifeste": "pkg_docvault.xml",
      "noms": {
       "fr-FR": "DocVault",
@@ -629,7 +629,7 @@
        "element": "com_docvault",
        "folder": "",
        "client": 1,
-       "version": "0.2.0",
+       "version": "0.2.1",
        "manifeste": "docvault.xml",
        "noms": {
         "fr-FR": "DocVault",
@@ -643,7 +643,7 @@
        "element": "mod_docvault",
        "folder": "",
        "client": 0,
-       "version": "0.2.0",
+       "version": "0.2.1",
        "manifeste": "mod_docvault.xml",
        "noms": {
         "fr-FR": "DocVault – Documents",
@@ -657,7 +657,7 @@
        "element": "docvault",
        "folder": "system",
        "client": 0,
-       "version": "0.2.0",
+       "version": "0.2.1",
        "manifeste": "docvault.xml",
        "noms": {
         "fr-FR": "Système - DocVault",
@@ -671,7 +671,7 @@
        "element": "docvault",
        "folder": "task",
        "client": 0,
-       "version": "0.2.0",
+       "version": "0.2.1",
        "manifeste": "docvault.xml",
        "noms": {
         "fr-FR": "Tâche - DocVault",
@@ -685,7 +685,7 @@
        "element": "docvault",
        "folder": "privacy",
        "client": 0,
-       "version": "0.2.0",
+       "version": "0.2.1",
        "manifeste": "docvault.xml",
        "noms": {
         "fr-FR": "Confidentialité - DocVault",
@@ -699,7 +699,7 @@
        "element": "docvault",
        "folder": "finder",
        "client": 0,
-       "version": "0.2.0",
+       "version": "0.2.1",
        "manifeste": "docvault.xml",
        "noms": {
         "fr-FR": "Recherche avancée - DocVault",
@@ -713,7 +713,7 @@
        "element": "docvault",
        "folder": "editors-xtd",
        "client": 0,
-       "version": "0.2.0",
+       "version": "0.2.1",
        "manifeste": "docvault.xml",
        "noms": {
         "fr-FR": "Bouton - DocVault",
