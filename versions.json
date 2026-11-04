@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-04T15:17:40+00:00",
- "commit": "7bb00ad",
- "commit_date": "2026-11-04T16:17:26+01:00",
+ "genere": "2026-11-04T15:19:41+00:00",
+ "commit": "d6c2f31",
+ "commit_date": "2026-11-04T16:19:01+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -1278,7 +1278,7 @@
      "element": "mod_extversions",
      "folder": "",
      "client": 1,
-     "version": "1.1.0",
+     "version": "1.2.0",
      "manifeste": "mod_extversions.xml",
      "noms": {
       "fr-FR": "Versions des extensions maison",
