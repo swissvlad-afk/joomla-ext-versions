@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-05T11:08:26+00:00",
- "commit": "ac0b684",
- "commit_date": "2026-11-05T12:08:13+01:00",
+ "genere": "2026-11-05T11:09:20+00:00",
+ "commit": "a8eb4ae",
+ "commit_date": "2026-11-05T12:09:07+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -1138,7 +1138,8 @@
        "dans_paquet": true
       }
      ],
-     "en_cours": ""
+     "en_cours": "",
+     "hors_distribution": "oui"
     }
    ]
   },
@@ -1278,7 +1279,7 @@
      "element": "mod_extversions",
      "folder": "",
      "client": 1,
-     "version": "1.2.0",
+     "version": "1.2.1",
      "manifeste": "mod_extversions.xml",
      "noms": {
       "fr-FR": "Versions des extensions maison",
@@ -1407,6 +1408,17 @@
    "motif": {
     "fr-FR": "Archivé le 27.10.2026 avec pkg_formation : remplacé par plg_system_courses (pkg_courses 1.7.0).",
     "en-GB": "Archived on 27.10.2026 with pkg_formation: replaced by plg_system_courses (pkg_courses 1.7.0)."
+   }
+  },
+  {
+   "nom": "plg_system_autolanguagegroup",
+   "type": "plugin",
+   "element": "autolanguagegroup",
+   "folder": "system",
+   "client": 0,
+   "motif": {
+    "fr-FR": "« System - Auto Language by Group » (août 2025, langue choisie selon le groupe à la connexion) : essai abandonné, jamais repris dans le dépôt.",
+    "en-GB": "“System - Auto Language by Group” (August 2025, language chosen by group at login): abandoned trial, never brought into the repository."
    }
   }
  ]
