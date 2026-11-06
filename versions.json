@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-06T11:51:24+00:00",
- "commit": "156db6e",
- "commit_date": "2026-11-06T12:51:12+01:00",
+ "genere": "2026-11-06T12:22:20+00:00",
+ "commit": "cde3839",
+ "commit_date": "2026-11-06T13:21:55+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -738,7 +738,7 @@
      },
      "cle": "pkg_docmannotify",
      "sites": "",
-     "plus_maintenue": "",
+     "plus_maintenue": "oui",
      "membres": [
       {
        "dossier": "com_docmannotify",
