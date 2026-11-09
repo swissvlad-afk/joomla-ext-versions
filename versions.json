@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-09T16:10:21+00:00",
- "commit": "ddbca7a",
- "commit_date": "2026-11-09T17:09:36+01:00",
+ "genere": "2026-11-09T16:18:18+00:00",
+ "commit": "735cffd",
+ "commit_date": "2026-11-09T17:17:33+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -418,7 +418,7 @@
        "element": "com_droits",
        "folder": "",
        "client": 1,
-       "version": "",
+       "version": "1.0.0",
        "manifeste": "droits.xml",
        "noms": {
         "fr-FR": "Droits de la page",
@@ -432,7 +432,7 @@
        "element": "droits",
        "folder": "system",
        "client": 0,
-       "version": "",
+       "version": "1.0.0",
        "manifeste": "droits.xml",
        "noms": {
         "fr-FR": "Système - Droits de la page",
@@ -441,7 +441,7 @@
        "dans_paquet": true
       }
      ],
-     "en_cours": "1.0.0"
+     "en_cours": ""
     }
    ]
   },
