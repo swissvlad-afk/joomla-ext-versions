@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-09T15:15:36+00:00",
- "commit": "92bfbe3",
- "commit_date": "2026-11-09T16:15:22+01:00",
+ "genere": "2026-11-09T15:16:24+00:00",
+ "commit": "fd67fc9",
+ "commit_date": "2026-11-09T16:16:02+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -183,7 +183,7 @@
        "element": "com_inscription",
        "folder": "",
        "client": 1,
-       "version": "1.4.1",
+       "version": "",
        "manifeste": "inscription.xml",
        "noms": {
         "fr-FR": "Inscription par entité",
@@ -192,7 +192,7 @@
        "dans_paquet": true
       }
      ],
-     "en_cours": ""
+     "en_cours": "1.5.0"
     },
     {
      "dossier": "pkg_stepup",
