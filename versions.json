@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-09T15:39:52+00:00",
- "commit": "fc83f79",
- "commit_date": "2026-11-09T16:39:25+01:00",
+ "genere": "2026-11-09T15:47:43+00:00",
+ "commit": "38d6763",
+ "commit_date": "2026-11-09T16:47:23+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -395,6 +395,53 @@
      "plus_maintenue": "",
      "membres": [],
      "en_cours": ""
+    },
+    {
+     "dossier": "pkg_droits",
+     "type": "package",
+     "element": "pkg_droits",
+     "folder": "",
+     "client": 0,
+     "version": "1.0.0",
+     "manifeste": "pkg_droits.xml",
+     "noms": {
+      "fr-FR": "Droits de la page",
+      "en-GB": "Page rights"
+     },
+     "cle": "pkg_droits",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [
+      {
+       "dossier": "com_droits",
+       "type": "component",
+       "element": "com_droits",
+       "folder": "",
+       "client": 1,
+       "version": "",
+       "manifeste": "droits.xml",
+       "noms": {
+        "fr-FR": "Droits de la page",
+        "en-GB": "Page rights"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_system_droits",
+       "type": "plugin",
+       "element": "droits",
+       "folder": "system",
+       "client": 0,
+       "version": "",
+       "manifeste": "droits.xml",
+       "noms": {
+        "fr-FR": "Système - Droits de la page",
+        "en-GB": "System - Page rights"
+       },
+       "dans_paquet": true
+      }
+     ],
+     "en_cours": "1.0.0"
     }
    ]
   },
