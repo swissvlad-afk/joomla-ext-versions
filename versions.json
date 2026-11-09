@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-09T15:38:32+00:00",
- "commit": "6f53c79",
- "commit_date": "2026-11-09T16:38:13+01:00",
+ "genere": "2026-11-09T15:39:52+00:00",
+ "commit": "fc83f79",
+ "commit_date": "2026-11-09T16:39:25+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -294,7 +294,7 @@
      "element": "com_userimport",
      "folder": "",
      "client": 1,
-     "version": "1.0.4",
+     "version": "1.0.5",
      "manifeste": "userimport.xml",
      "noms": {
       "fr-FR": "Import d’utilisateurs",
@@ -304,7 +304,7 @@
      "sites": "",
      "plus_maintenue": "",
      "membres": [],
-     "en_cours": "1.0.5"
+     "en_cours": ""
     },
     {
      "dossier": "com_maildomain",
