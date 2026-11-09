@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-09T16:18:18+00:00",
- "commit": "735cffd",
- "commit_date": "2026-11-09T17:17:33+01:00",
+ "genere": "2026-11-09T16:25:32+00:00",
+ "commit": "b2fb0d3",
+ "commit_date": "2026-11-09T17:25:19+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -330,7 +330,7 @@
      "element": "cardionetabsorb",
      "folder": "console",
      "client": 0,
-     "version": "1.1.0",
+     "version": "1.2.0",
      "manifeste": "cardionetabsorb.xml",
      "noms": {
       "fr-FR": "Console - Absorption des comptes (CardioNet)",
@@ -340,7 +340,7 @@
      "sites": "",
      "plus_maintenue": "",
      "membres": [],
-     "en_cours": "1.2.0"
+     "en_cours": ""
     },
     {
      "dossier": "com_idcheck",
