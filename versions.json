@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-09T15:55:09+00:00",
- "commit": "29f7d4b",
- "commit_date": "2026-11-09T16:54:55+01:00",
+ "genere": "2026-11-09T16:05:42+00:00",
+ "commit": "4d63850",
+ "commit_date": "2026-11-09T17:05:24+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -120,7 +120,7 @@
      "element": "pkg_groupmanager",
      "folder": "",
      "client": 0,
-     "version": "1.4.1",
+     "version": "1.5.0",
      "manifeste": "pkg_groupmanager.xml",
      "noms": {
       "fr-FR": "Gestion des groupes (paquet)",
@@ -136,7 +136,7 @@
        "element": "com_groupmanager",
        "folder": "",
        "client": 1,
-       "version": "",
+       "version": "1.5.0",
        "manifeste": "groupmanager.xml",
        "noms": {
         "fr-FR": "Gestion des groupes",
@@ -150,7 +150,7 @@
        "element": "groupmanager",
        "folder": "user",
        "client": 0,
-       "version": "",
+       "version": "1.5.0",
        "manifeste": "groupmanager.xml",
        "noms": {
         "fr-FR": "Utilisateur - Gestion des groupes",
@@ -159,7 +159,7 @@
        "dans_paquet": true
       }
      ],
-     "en_cours": "1.5.0"
+     "en_cours": ""
     },
     {
      "dossier": "pkg_inscription",
