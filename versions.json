@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-09T16:05:42+00:00",
- "commit": "4d63850",
- "commit_date": "2026-11-09T17:05:24+01:00",
+ "genere": "2026-11-09T16:10:21+00:00",
+ "commit": "ddbca7a",
+ "commit_date": "2026-11-09T17:09:36+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -59,7 +59,7 @@
      "element": "pkg_dossiers",
      "folder": "",
      "client": 0,
-     "version": "1.2.2",
+     "version": "1.2.3",
      "manifeste": "pkg_dossiers.xml",
      "noms": {
       "fr-FR": "Dossiers administratifs (paquet)",
@@ -75,7 +75,7 @@
        "element": "com_dossiers",
        "folder": "",
        "client": 1,
-       "version": "",
+       "version": "1.2.3",
        "manifeste": "dossiers.xml",
        "noms": {
         "fr-FR": "Dossiers administratifs",
@@ -89,7 +89,7 @@
        "element": "dossiers",
        "folder": "system",
        "client": 0,
-       "version": "",
+       "version": "1.2.3",
        "manifeste": "dossiers.xml",
        "noms": {
         "fr-FR": "Système - Dossiers administratifs",
@@ -103,7 +103,7 @@
        "element": "dossiers",
        "folder": "privacy",
        "client": 0,
-       "version": "",
+       "version": "1.2.3",
        "manifeste": "dossiers.xml",
        "noms": {
         "fr-FR": "Confidentialité - Dossiers administratifs",
@@ -112,7 +112,7 @@
        "dans_paquet": true
       }
      ],
-     "en_cours": "1.2.3"
+     "en_cours": ""
     },
     {
      "dossier": "pkg_groupmanager",
