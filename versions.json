@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-10T16:22:22+00:00",
- "commit": "900ecd4",
- "commit_date": "2026-11-10T17:22:03+01:00",
+ "genere": "2026-11-10T17:16:24+00:00",
+ "commit": "965ad1f",
+ "commit_date": "2026-11-10T18:16:10+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -1038,7 +1038,7 @@
      "element": "pkg_planning_cadres",
      "folder": "",
      "client": 0,
-     "version": "1.6.0",
+     "version": "1.7.0",
      "manifeste": "pkg_planning_cadres.xml",
      "noms": {
       "fr-FR": "Planning des cadres",
@@ -1054,7 +1054,7 @@
        "element": "com_planning_cadres",
        "folder": "",
        "client": 1,
-       "version": "",
+       "version": "1.7.0",
        "manifeste": "planning_cadres.xml",
        "noms": {
         "fr-FR": "Planning des cadres",
@@ -1068,7 +1068,7 @@
        "element": "planningcadres",
        "folder": "task",
        "client": 0,
-       "version": "",
+       "version": "1.7.0",
        "manifeste": "planningcadres.xml",
        "noms": {
         "fr-FR": "Tâche - Planning des cadres",
@@ -1082,7 +1082,7 @@
        "element": "planningcadres",
        "folder": "webservices",
        "client": 0,
-       "version": "",
+       "version": "1.7.0",
        "manifeste": "planningcadres.xml",
        "noms": {
         "fr-FR": "Services web - Planning des cadres",
@@ -1096,7 +1096,7 @@
        "element": "planningcadres",
        "folder": "courses",
        "client": 0,
-       "version": "",
+       "version": "1.7.0",
        "manifeste": "planningcadres.xml",
        "noms": {
         "fr-FR": "Formations - Planning des cadres",
@@ -1110,7 +1110,7 @@
        "element": "mod_planning_cadres_oncall",
        "folder": "",
        "client": 0,
-       "version": "",
+       "version": "1.7.0",
        "manifeste": "mod_planning_cadres_oncall.xml",
        "noms": {
         "fr-FR": "Planning des cadres - De garde",
@@ -1119,7 +1119,7 @@
        "dans_paquet": true
       }
      ],
-     "en_cours": "1.7.0"
+     "en_cours": ""
     }
    ]
   },
