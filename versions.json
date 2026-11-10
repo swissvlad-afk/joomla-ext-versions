@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-10T11:53:54+00:00",
- "commit": "b12d493",
- "commit_date": "2026-11-10T12:53:28+01:00",
+ "genere": "2026-11-10T11:55:01+00:00",
+ "commit": "19c90dc",
+ "commit_date": "2026-11-10T12:54:21+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -1132,7 +1132,7 @@
      "element": "pkg_crf",
      "folder": "",
      "client": 0,
-     "version": "1.11.1",
+     "version": "1.12.0",
      "manifeste": "pkg_crf.xml",
      "noms": {
       "fr-FR": "pkg_crf",
@@ -1148,7 +1148,7 @@
        "element": "com_crf",
        "folder": "",
        "client": 1,
-       "version": "",
+       "version": "1.12.0",
        "manifeste": "crf.xml",
        "noms": {
         "fr-FR": "CRF – Formulaires de recherche",
@@ -1162,7 +1162,7 @@
        "element": "crfsecurity",
        "folder": "user",
        "client": 0,
-       "version": "",
+       "version": "1.12.0",
        "manifeste": "crfsecurity.xml",
        "noms": {
         "fr-FR": "Utilisateur - Sécurité CRF",
@@ -1176,7 +1176,7 @@
        "element": "crfintegrity",
        "folder": "task",
        "client": 0,
-       "version": "",
+       "version": "1.12.0",
        "manifeste": "crfintegrity.xml",
        "noms": {
         "fr-FR": "Tâche - CRF - Vérification du journal",
@@ -1185,7 +1185,7 @@
        "dans_paquet": true
       }
      ],
-     "en_cours": "1.12.0",
+     "en_cours": "",
      "hors_distribution": "oui"
     }
    ]
