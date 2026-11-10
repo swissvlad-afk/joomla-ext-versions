@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-10T14:31:34+00:00",
- "commit": "8399063",
- "commit_date": "2026-11-10T15:30:57+01:00",
+ "genere": "2026-11-10T14:33:11+00:00",
+ "commit": "fd48ee4",
+ "commit_date": "2026-11-10T15:32:55+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -1246,7 +1246,7 @@
      "element": "pkg_smurstages",
      "folder": "",
      "client": 0,
-     "version": "1.9.0",
+     "version": "1.10.0",
      "manifeste": "pkg_smurstages.xml",
      "noms": {
       "fr-FR": "Stages SMUR (paquet)",
@@ -1262,7 +1262,7 @@
        "element": "com_smurstages",
        "folder": "",
        "client": 1,
-       "version": "",
+       "version": "1.10.0",
        "manifeste": "smurstages.xml",
        "noms": {
         "fr-FR": "Stages SMUR",
@@ -1276,7 +1276,7 @@
        "element": "smurstages",
        "folder": "webservices",
        "client": 0,
-       "version": "",
+       "version": "1.10.0",
        "manifeste": "smurstages.xml",
        "noms": {
         "fr-FR": "Web Services - Stages SMUR",
@@ -1285,7 +1285,7 @@
        "dans_paquet": true
       }
      ],
-     "en_cours": "1.10.0"
+     "en_cours": ""
     },
     {
      "dossier": "pkg_gridtables",
