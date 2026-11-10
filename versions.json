@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-10T13:50:31+00:00",
- "commit": "1325be8",
- "commit_date": "2026-11-10T14:50:02+01:00",
+ "genere": "2026-11-10T14:04:07+00:00",
+ "commit": "5222c0f",
+ "commit_date": "2026-11-10T15:03:38+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -348,7 +348,7 @@
      "element": "com_idcheck",
      "folder": "",
      "client": 1,
-     "version": "1.0.1",
+     "version": "1.0.2",
      "manifeste": "idcheck.xml",
      "noms": {
       "fr-FR": "Contrôle des membres",
