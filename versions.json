@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-10T22:07:58+00:00",
- "commit": "2b1392d",
- "commit_date": "2026-11-10T23:07:42+01:00",
+ "genere": "2026-11-10T23:28:33+00:00",
+ "commit": "bd5a15e",
+ "commit_date": "2026-11-11T00:27:54+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -442,6 +442,82 @@
       }
      ],
      "en_cours": ""
+    },
+    {
+     "dossier": "pkg_partage",
+     "type": "package",
+     "element": "pkg_partage",
+     "folder": "",
+     "client": 0,
+     "version": "0.1.0",
+     "manifeste": "pkg_partage.xml",
+     "noms": {
+      "fr-FR": "Comptes partagés (paquet)",
+      "en-GB": "Shared accounts (package)"
+     },
+     "cle": "pkg_partage",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [
+      {
+       "dossier": "lib_partage",
+       "type": "library",
+       "element": "partage",
+       "folder": "",
+       "client": 0,
+       "version": "0.1.0",
+       "manifeste": "partage.xml",
+       "noms": {
+        "fr-FR": "Bibliothèque - Comptes partagés (pilote)",
+        "en-GB": "Library - Shared accounts (driver)"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "com_partage",
+       "type": "component",
+       "element": "com_partage",
+       "folder": "",
+       "client": 1,
+       "version": "0.1.0",
+       "manifeste": "partage.xml",
+       "noms": {
+        "fr-FR": "Comptes partagés",
+        "en-GB": "Shared accounts"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_system_partage",
+       "type": "plugin",
+       "element": "partage",
+       "folder": "system",
+       "client": 0,
+       "version": "0.1.0",
+       "manifeste": "partage.xml",
+       "noms": {
+        "fr-FR": "Système - Comptes partagés",
+        "en-GB": "System - Shared accounts"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_console_partage",
+       "type": "plugin",
+       "element": "partage",
+       "folder": "console",
+       "client": 0,
+       "version": "0.1.0",
+       "manifeste": "partage.xml",
+       "noms": {
+        "fr-FR": "Console - Comptes partagés",
+        "en-GB": "Console - Shared accounts"
+       },
+       "dans_paquet": true
+      }
+     ],
+     "en_cours": "",
+     "hors_distribution": "oui"
     }
    ]
   },
