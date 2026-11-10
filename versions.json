@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-10T17:16:24+00:00",
- "commit": "965ad1f",
- "commit_date": "2026-11-10T18:16:10+01:00",
+ "genere": "2026-11-10T17:45:33+00:00",
+ "commit": "a27da2c",
+ "commit_date": "2026-11-10T18:43:01+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -167,7 +167,7 @@
      "element": "pkg_inscription",
      "folder": "",
      "client": 0,
-     "version": "1.5.0",
+     "version": "1.5.1",
      "manifeste": "pkg_inscription.xml",
      "noms": {
       "fr-FR": "Inscription par entité (paquet)",
@@ -183,7 +183,7 @@
        "element": "com_inscription",
        "folder": "",
        "client": 1,
-       "version": "1.5.0",
+       "version": "1.5.1",
        "manifeste": "inscription.xml",
        "noms": {
         "fr-FR": "Inscription par entité",
