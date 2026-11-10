@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-10T14:23:08+00:00",
- "commit": "ba27eb8",
- "commit_date": "2026-11-10T15:22:48+01:00",
+ "genere": "2026-11-10T14:31:34+00:00",
+ "commit": "8399063",
+ "commit_date": "2026-11-10T15:30:57+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -852,7 +852,7 @@
      "element": "jtguard",
      "folder": "system",
      "client": 0,
-     "version": "1.0.2",
+     "version": "1.0.3",
      "manifeste": "jtguard.xml",
      "noms": {
       "fr-FR": "Système - Garde Joomlatools",
@@ -862,7 +862,7 @@
      "sites": "",
      "plus_maintenue": "",
      "membres": [],
-     "en_cours": "1.0.3"
+     "en_cours": ""
     },
     {
      "dossier": "plg_system_docmaninventory",
