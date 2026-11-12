@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-12T08:39:58+00:00",
- "commit": "e6c743f",
- "commit_date": "2026-11-12T09:39:43+01:00",
+ "genere": "2026-11-12T10:55:51+00:00",
+ "commit": "163319b",
+ "commit_date": "2026-11-12T11:55:36+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -964,7 +964,7 @@
      "element": "pkg_planning_amb",
      "folder": "",
      "client": 0,
-     "version": "1.19.0",
+     "version": "1.19.1",
      "manifeste": "pkg_planning_amb.xml",
      "noms": {
       "fr-FR": "Horaires ambulanciers SMUR",
@@ -980,7 +980,7 @@
        "element": "com_planning_amb",
        "folder": "",
        "client": 1,
-       "version": "1.19.0",
+       "version": "1.19.1",
        "manifeste": "planning_amb.xml",
        "noms": {
         "fr-FR": "Horaires ambulanciers SMUR",
@@ -994,7 +994,7 @@
        "element": "planningamb",
        "folder": "task",
        "client": 0,
-       "version": "1.19.0",
+       "version": "1.19.1",
        "manifeste": "planningamb.xml",
        "noms": {
         "fr-FR": "Tâche - Horaires ambulanciers SMUR",
@@ -1008,7 +1008,7 @@
        "element": "planningamb",
        "folder": "webservices",
        "client": 0,
-       "version": "1.19.0",
+       "version": "1.19.1",
        "manifeste": "planningamb.xml",
        "noms": {
         "fr-FR": "Web Services - Horaires ambulanciers SMUR",
@@ -1022,7 +1022,7 @@
        "element": "planningamb",
        "folder": "courses",
        "client": 0,
-       "version": "1.19.0",
+       "version": "1.19.1",
        "manifeste": "planningamb.xml",
        "noms": {
         "fr-FR": "Formations - Horaires ambulanciers SMUR",
@@ -1036,7 +1036,7 @@
        "element": "planningamb",
        "folder": "content",
        "client": 0,
-       "version": "1.19.0",
+       "version": "1.19.1",
        "manifeste": "planningamb.xml",
        "noms": {
         "fr-FR": "Contenu - Horaires ambulanciers SMUR (DocVault)",
@@ -1050,7 +1050,7 @@
        "element": "mod_planning_amb_today",
        "folder": "",
        "client": 0,
-       "version": "1.19.0",
+       "version": "1.19.1",
        "manifeste": "mod_planning_amb_today.xml",
        "noms": {
         "fr-FR": "Horaires SMUR – en service aujourd’hui",
