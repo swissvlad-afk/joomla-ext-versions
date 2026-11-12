@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-12T16:39:08+00:00",
- "commit": "f76fd09",
- "commit_date": "2026-11-12T17:22:50+01:00",
+ "genere": "2026-11-12T16:45:29+00:00",
+ "commit": "47c75aa",
+ "commit_date": "2026-11-12T17:45:10+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -752,7 +752,7 @@
        "element": "com_docvault",
        "folder": "",
        "client": 1,
-       "version": "0.5.1",
+       "version": "",
        "manifeste": "docvault.xml",
        "noms": {
         "fr-FR": "DocVault",
@@ -766,7 +766,7 @@
        "element": "mod_docvault",
        "folder": "",
        "client": 0,
-       "version": "0.3.0",
+       "version": "",
        "manifeste": "mod_docvault.xml",
        "noms": {
         "fr-FR": "DocVault – Documents",
@@ -780,7 +780,7 @@
        "element": "docvault",
        "folder": "system",
        "client": 0,
-       "version": "0.4.0",
+       "version": "",
        "manifeste": "docvault.xml",
        "noms": {
         "fr-FR": "Système - DocVault",
@@ -794,7 +794,7 @@
        "element": "docvault",
        "folder": "task",
        "client": 0,
-       "version": "0.3.0",
+       "version": "",
        "manifeste": "docvault.xml",
        "noms": {
         "fr-FR": "Tâche - DocVault",
@@ -808,7 +808,7 @@
        "element": "docvault",
        "folder": "privacy",
        "client": 0,
-       "version": "0.3.0",
+       "version": "",
        "manifeste": "docvault.xml",
        "noms": {
         "fr-FR": "Confidentialité - DocVault",
@@ -822,7 +822,7 @@
        "element": "docvault",
        "folder": "finder",
        "client": 0,
-       "version": "0.3.0",
+       "version": "",
        "manifeste": "docvault.xml",
        "noms": {
         "fr-FR": "Recherche avancée - DocVault",
@@ -836,7 +836,7 @@
        "element": "docvault",
        "folder": "editors-xtd",
        "client": 0,
-       "version": "0.3.0",
+       "version": "",
        "manifeste": "docvault.xml",
        "noms": {
         "fr-FR": "Bouton - DocVault",
@@ -845,7 +845,7 @@
        "dans_paquet": true
       }
      ],
-     "en_cours": ""
+     "en_cours": "1.0.0"
     },
     {
      "dossier": "pkg_docmannotify",
