@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-12T16:45:29+00:00",
- "commit": "47c75aa",
- "commit_date": "2026-11-12T17:45:10+01:00",
+ "genere": "2026-11-12T17:28:07+00:00",
+ "commit": "f8c9a8d",
+ "commit_date": "2026-11-12T18:27:48+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -518,6 +518,53 @@
      ],
      "en_cours": "",
      "hors_distribution": "oui"
+    },
+    {
+     "dossier": "pkg_sso",
+     "type": "package",
+     "element": "pkg_sso",
+     "folder": "",
+     "client": 0,
+     "version": "1.0.0",
+     "manifeste": "pkg_sso.xml",
+     "noms": {
+      "fr-FR": "Connexion unique (paquet)",
+      "en-GB": "Single sign-on (package)"
+     },
+     "cle": "pkg_sso",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [
+      {
+       "dossier": "com_sso",
+       "type": "component",
+       "element": "com_sso",
+       "folder": "",
+       "client": 1,
+       "version": "1.0.0",
+       "manifeste": "sso.xml",
+       "noms": {
+        "fr-FR": "Connexion unique",
+        "en-GB": "Single sign-on"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_system_sso",
+       "type": "plugin",
+       "element": "sso",
+       "folder": "system",
+       "client": 0,
+       "version": "1.0.0",
+       "manifeste": "sso.xml",
+       "noms": {
+        "fr-FR": "Système - Connexion unique",
+        "en-GB": "System - Single sign-on"
+       },
+       "dans_paquet": true
+      }
+     ],
+     "en_cours": ""
     }
    ]
   },
