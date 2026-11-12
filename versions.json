@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-12T17:28:07+00:00",
- "commit": "f8c9a8d",
- "commit_date": "2026-11-12T18:27:48+01:00",
+ "genere": "2026-11-12T17:39:08+00:00",
+ "commit": "58e6ccf",
+ "commit_date": "2026-11-12T18:38:53+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -449,7 +449,7 @@
      "element": "pkg_partage",
      "folder": "",
      "client": 0,
-     "version": "0.1.0",
+     "version": "0.2.0",
      "manifeste": "pkg_partage.xml",
      "noms": {
       "fr-FR": "Comptes partagés (paquet)",
@@ -465,7 +465,7 @@
        "element": "partage",
        "folder": "",
        "client": 0,
-       "version": "0.1.0",
+       "version": "0.2.0",
        "manifeste": "partage.xml",
        "noms": {
         "fr-FR": "Bibliothèque - Comptes partagés (pilote)",
@@ -479,7 +479,7 @@
        "element": "com_partage",
        "folder": "",
        "client": 1,
-       "version": "0.1.0",
+       "version": "0.2.0",
        "manifeste": "partage.xml",
        "noms": {
         "fr-FR": "Comptes partagés",
@@ -493,7 +493,7 @@
        "element": "partage",
        "folder": "system",
        "client": 0,
-       "version": "0.1.0",
+       "version": "0.2.0",
        "manifeste": "partage.xml",
        "noms": {
         "fr-FR": "Système - Comptes partagés",
@@ -507,11 +507,25 @@
        "element": "partage",
        "folder": "console",
        "client": 0,
-       "version": "0.1.0",
+       "version": "0.2.0",
        "manifeste": "partage.xml",
        "noms": {
         "fr-FR": "Console - Comptes partagés",
         "en-GB": "Console - Shared accounts"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_task_partage",
+       "type": "plugin",
+       "element": "partage",
+       "folder": "task",
+       "client": 0,
+       "version": "0.2.0",
+       "manifeste": "partage.xml",
+       "noms": {
+        "fr-FR": "Tâche - Copie de secours des comptes partagés",
+        "en-GB": "Task - Backup copy of the shared accounts"
        },
        "dans_paquet": true
       }
