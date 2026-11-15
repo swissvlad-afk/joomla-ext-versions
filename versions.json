@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-15T15:26:29+00:00",
- "commit": "ac701fb",
- "commit_date": "2026-11-15T16:25:49+01:00",
+ "genere": "2026-11-15T16:04:27+00:00",
+ "commit": "4879a29",
+ "commit_date": "2026-11-15T17:03:46+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -1484,8 +1484,8 @@
      "version": "",
      "manifeste": "pkg_aide.xml",
      "noms": {
-      "fr-FR": "pkg_aide",
-      "en-GB": "pkg_aide"
+      "fr-FR": "Aide",
+      "en-GB": "Help"
      },
      "cle": "pkg_aide",
      "sites": "",
@@ -1500,8 +1500,8 @@
        "version": "",
        "manifeste": "aide.xml",
        "noms": {
-        "fr-FR": "com_aide",
-        "en-GB": "com_aide"
+        "fr-FR": "Aide",
+        "en-GB": "Help"
        },
        "dans_paquet": true
       },
@@ -1514,8 +1514,8 @@
        "version": "",
        "manifeste": "mod_aide.xml",
        "noms": {
-        "fr-FR": "mod_aide",
-        "en-GB": "mod_aide"
+        "fr-FR": "Aide",
+        "en-GB": "Help"
        },
        "dans_paquet": true
       }
