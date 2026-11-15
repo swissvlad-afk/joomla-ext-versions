@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-15T19:11:03+00:00",
- "commit": "f2bd96e",
- "commit_date": "2026-11-15T20:10:37+01:00",
+ "genere": "2026-11-15T19:25:05+00:00",
+ "commit": "26e77c1",
+ "commit_date": "2026-11-15T20:24:43+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -591,7 +591,7 @@
      "element": "pkg_courses",
      "folder": "",
      "client": 0,
-     "version": "1.15.0",
+     "version": "1.16.0",
      "manifeste": "pkg_courses.xml",
      "noms": {
       "fr-FR": "Formations",
@@ -607,7 +607,7 @@
        "element": "com_courses",
        "folder": "",
        "client": 1,
-       "version": "1.15.0",
+       "version": "1.16.0",
        "manifeste": "courses.xml",
        "noms": {
         "fr-FR": "Formations",
@@ -621,7 +621,7 @@
        "element": "courses",
        "folder": "task",
        "client": 0,
-       "version": "1.15.0",
+       "version": "1.16.0",
        "manifeste": "courses.xml",
        "noms": {
         "fr-FR": "Tâche - Formations",
@@ -635,7 +635,7 @@
        "element": "courses",
        "folder": "user",
        "client": 0,
-       "version": "1.15.0",
+       "version": "1.16.0",
        "manifeste": "courses.xml",
        "noms": {
         "fr-FR": "Utilisateur - Formations",
@@ -649,7 +649,7 @@
        "element": "courses",
        "folder": "system",
        "client": 0,
-       "version": "1.15.0",
+       "version": "1.16.0",
        "manifeste": "courses.xml",
        "noms": {
         "fr-FR": "Système - Formations (fin de parcours)",
@@ -663,7 +663,7 @@
        "element": "mod_courses_upcoming",
        "folder": "",
        "client": 0,
-       "version": "1.15.0",
+       "version": "1.16.0",
        "manifeste": "mod_courses_upcoming.xml",
        "noms": {
         "fr-FR": "Formations – mes prochaines formations",
