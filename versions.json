@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-15T16:04:27+00:00",
- "commit": "4879a29",
- "commit_date": "2026-11-15T17:03:46+01:00",
+ "genere": "2026-11-15T16:14:26+00:00",
+ "commit": "941db48",
+ "commit_date": "2026-11-15T17:13:23+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -1430,7 +1430,7 @@
      "element": "pkg_gridtables",
      "folder": "",
      "client": 0,
-     "version": "1.0.2",
+     "version": "1.1.0",
      "manifeste": "pkg_gridtables.xml",
      "noms": {
       "fr-FR": "Grilles (paquet)",
@@ -1446,7 +1446,7 @@
        "element": "com_gridtables",
        "folder": "",
        "client": 1,
-       "version": "1.0.2",
+       "version": "1.1.0",
        "manifeste": "gridtables.xml",
        "noms": {
         "fr-FR": "Grilles",
