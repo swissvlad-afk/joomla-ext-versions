@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-15T14:57:44+00:00",
- "commit": "6d21e52",
- "commit_date": "2026-11-15T15:56:52+01:00",
+ "genere": "2026-11-15T15:25:19+00:00",
+ "commit": "9ca9df4",
+ "commit_date": "2026-11-15T16:25:05+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -1474,6 +1474,53 @@
      "plus_maintenue": "",
      "membres": [],
      "en_cours": ""
+    },
+    {
+     "dossier": "pkg_aide",
+     "type": "package",
+     "element": "pkg_aide",
+     "folder": "",
+     "client": 0,
+     "version": "",
+     "manifeste": "pkg_aide.xml",
+     "noms": {
+      "fr-FR": "pkg_aide",
+      "en-GB": "pkg_aide"
+     },
+     "cle": "pkg_aide",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [
+      {
+       "dossier": "com_aide",
+       "type": "component",
+       "element": "com_aide",
+       "folder": "",
+       "client": 1,
+       "version": "",
+       "manifeste": "aide.xml",
+       "noms": {
+        "fr-FR": "com_aide",
+        "en-GB": "com_aide"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "mod_aide",
+       "type": "module",
+       "element": "mod_aide",
+       "folder": "",
+       "client": 0,
+       "version": "",
+       "manifeste": "mod_aide.xml",
+       "noms": {
+        "fr-FR": "mod_aide",
+        "en-GB": "mod_aide"
+       },
+       "dans_paquet": true
+      }
+     ],
+     "en_cours": "1.0.0"
     }
    ]
   },
