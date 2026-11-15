@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-12T21:52:45+00:00",
- "commit": "bb6464f",
- "commit_date": "2026-11-12T22:52:27+01:00",
+ "genere": "2026-11-15T14:33:29+00:00",
+ "commit": "073cd12",
+ "commit_date": "2026-11-15T15:33:11+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -1512,6 +1512,39 @@
       }
      ],
      "en_cours": ""
+    },
+    {
+     "dossier": "pkg_ressources",
+     "type": "package",
+     "element": "pkg_ressources",
+     "folder": "",
+     "client": 0,
+     "version": "",
+     "manifeste": "pkg_ressources.xml",
+     "noms": {
+      "fr-FR": "Ressources (paquet)",
+      "en-GB": "Resources (package)"
+     },
+     "cle": "pkg_ressources",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [
+      {
+       "dossier": "com_ressources",
+       "type": "component",
+       "element": "com_ressources",
+       "folder": "",
+       "client": 1,
+       "version": "",
+       "manifeste": "ressources.xml",
+       "noms": {
+        "fr-FR": "Ressources",
+        "en-GB": "Resources"
+       },
+       "dans_paquet": true
+      }
+     ],
+     "en_cours": "1.0.0"
     }
    ]
   }
