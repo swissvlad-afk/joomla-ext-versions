@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-15T14:33:29+00:00",
- "commit": "073cd12",
- "commit_date": "2026-11-15T15:33:11+01:00",
+ "genere": "2026-11-15T14:57:44+00:00",
+ "commit": "6d21e52",
+ "commit_date": "2026-11-15T15:56:52+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -1519,7 +1519,7 @@
      "element": "pkg_ressources",
      "folder": "",
      "client": 0,
-     "version": "",
+     "version": "1.0.0",
      "manifeste": "pkg_ressources.xml",
      "noms": {
       "fr-FR": "Ressources (paquet)",
@@ -1535,7 +1535,7 @@
        "element": "com_ressources",
        "folder": "",
        "client": 1,
-       "version": "",
+       "version": "1.0.0",
        "manifeste": "ressources.xml",
        "noms": {
         "fr-FR": "Ressources",
@@ -1544,7 +1544,7 @@
        "dans_paquet": true
       }
      ],
-     "en_cours": "1.0.0"
+     "en_cours": ""
     }
    ]
   }
