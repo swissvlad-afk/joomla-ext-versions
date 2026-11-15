@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-15T16:14:26+00:00",
- "commit": "941db48",
- "commit_date": "2026-11-15T17:13:23+01:00",
+ "genere": "2026-11-15T16:29:26+00:00",
+ "commit": "22c0e2d",
+ "commit_date": "2026-11-15T17:29:00+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -1481,7 +1481,7 @@
      "element": "pkg_aide",
      "folder": "",
      "client": 0,
-     "version": "",
+     "version": "1.0.0",
      "manifeste": "pkg_aide.xml",
      "noms": {
       "fr-FR": "Aide",
@@ -1497,7 +1497,7 @@
        "element": "com_aide",
        "folder": "",
        "client": 1,
-       "version": "",
+       "version": "1.0.0",
        "manifeste": "aide.xml",
        "noms": {
         "fr-FR": "Aide",
@@ -1511,7 +1511,7 @@
        "element": "mod_aide",
        "folder": "",
        "client": 0,
-       "version": "",
+       "version": "1.0.0",
        "manifeste": "mod_aide.xml",
        "noms": {
         "fr-FR": "Aide",
@@ -1520,7 +1520,7 @@
        "dans_paquet": true
       }
      ],
-     "en_cours": "1.0.0"
+     "en_cours": ""
     }
    ]
   },
