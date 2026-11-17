@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-16T15:36:06+00:00",
- "commit": "5d6a978",
- "commit_date": "2026-11-16T16:35:10+01:00",
+ "genere": "2026-11-17T10:12:06+00:00",
+ "commit": "1e04d0a",
+ "commit_date": "2026-11-17T11:11:22+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -680,7 +680,7 @@
      "element": "com_certgen",
      "folder": "",
      "client": 1,
-     "version": "2.5.0",
+     "version": "2.6.0",
      "manifeste": "certgen.xml",
      "noms": {
       "fr-FR": "Certificats",
