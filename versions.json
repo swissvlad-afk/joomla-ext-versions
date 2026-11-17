@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-17T20:16:50+00:00",
- "commit": "9b81e25",
- "commit_date": "2026-11-17T21:16:31+01:00",
+ "genere": "2026-11-17T21:18:22+00:00",
+ "commit": "8e718b0",
+ "commit_date": "2026-11-17T22:18:06+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -1252,6 +1252,67 @@
        "noms": {
         "fr-FR": "Planning des cadres - De garde",
         "en-GB": "Senior doctors roster - On duty"
+       },
+       "dans_paquet": true
+      }
+     ],
+     "en_cours": ""
+    },
+    {
+     "dossier": "pkg_planning_sec",
+     "type": "package",
+     "element": "pkg_planning_sec",
+     "folder": "",
+     "client": 0,
+     "version": "1.0.0",
+     "manifeste": "pkg_planning_sec.xml",
+     "noms": {
+      "fr-FR": "Horaires du secrétariat",
+      "en-GB": "Secretariat hours"
+     },
+     "cle": "pkg_planning_sec",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [
+      {
+       "dossier": "com_planning_sec",
+       "type": "component",
+       "element": "com_planning_sec",
+       "folder": "",
+       "client": 1,
+       "version": "1.0.0",
+       "manifeste": "planning_sec.xml",
+       "noms": {
+        "fr-FR": "Horaires du secrétariat",
+        "en-GB": "Secretariat hours"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "mod_planning_sec_today",
+       "type": "module",
+       "element": "mod_planning_sec_today",
+       "folder": "",
+       "client": 0,
+       "version": "1.0.0",
+       "manifeste": "mod_planning_sec_today.xml",
+       "noms": {
+        "fr-FR": "Secrétariat aujourd’hui",
+        "en-GB": "Secretariat today"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "plg_task_planningsec",
+       "type": "plugin",
+       "element": "planningsec",
+       "folder": "task",
+       "client": 0,
+       "version": "1.0.0",
+       "manifeste": "planningsec.xml",
+       "noms": {
+        "fr-FR": "Tâche - Horaires du secrétariat",
+        "en-GB": "Task - Secretariat hours"
        },
        "dans_paquet": true
       }
