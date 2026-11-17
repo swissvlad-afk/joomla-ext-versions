@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-17T19:21:47+00:00",
- "commit": "7708061",
- "commit_date": "2026-11-17T20:21:24+01:00",
+ "genere": "2026-11-17T20:15:54+00:00",
+ "commit": "e974f91",
+ "commit_date": "2026-11-17T21:15:40+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -797,7 +797,7 @@
      "element": "pkg_docvault",
      "folder": "",
      "client": 0,
-     "version": "0.5.1",
+     "version": "1.0.0",
      "manifeste": "pkg_docvault.xml",
      "noms": {
       "fr-FR": "DocVault",
@@ -813,7 +813,7 @@
        "element": "com_docvault",
        "folder": "",
        "client": 1,
-       "version": "",
+       "version": "1.0.0",
        "manifeste": "docvault.xml",
        "noms": {
         "fr-FR": "DocVault",
@@ -827,7 +827,7 @@
        "element": "mod_docvault",
        "folder": "",
        "client": 0,
-       "version": "",
+       "version": "1.0.0",
        "manifeste": "mod_docvault.xml",
        "noms": {
         "fr-FR": "DocVault – Documents",
@@ -841,7 +841,7 @@
        "element": "docvault",
        "folder": "system",
        "client": 0,
-       "version": "",
+       "version": "1.0.0",
        "manifeste": "docvault.xml",
        "noms": {
         "fr-FR": "Système - DocVault",
@@ -855,7 +855,7 @@
        "element": "docvault",
        "folder": "task",
        "client": 0,
-       "version": "",
+       "version": "1.0.0",
        "manifeste": "docvault.xml",
        "noms": {
         "fr-FR": "Tâche - DocVault",
@@ -869,7 +869,7 @@
        "element": "docvault",
        "folder": "privacy",
        "client": 0,
-       "version": "",
+       "version": "1.0.0",
        "manifeste": "docvault.xml",
        "noms": {
         "fr-FR": "Confidentialité - DocVault",
@@ -883,7 +883,7 @@
        "element": "docvault",
        "folder": "finder",
        "client": 0,
-       "version": "",
+       "version": "1.0.0",
        "manifeste": "docvault.xml",
        "noms": {
         "fr-FR": "Recherche avancée - DocVault",
@@ -897,7 +897,7 @@
        "element": "docvault",
        "folder": "editors-xtd",
        "client": 0,
-       "version": "",
+       "version": "1.0.0",
        "manifeste": "docvault.xml",
        "noms": {
         "fr-FR": "Bouton - DocVault",
@@ -906,7 +906,7 @@
        "dans_paquet": true
       }
      ],
-     "en_cours": "1.0.0"
+     "en_cours": ""
     },
     {
      "dossier": "pkg_docmannotify",
