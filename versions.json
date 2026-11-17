@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-17T17:31:01+00:00",
- "commit": "f1ece5d",
- "commit_date": "2026-11-17T18:30:38+01:00",
+ "genere": "2026-11-17T17:49:19+00:00",
+ "commit": "3c643e2",
+ "commit_date": "2026-11-17T18:49:04+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -247,7 +247,7 @@
      "element": "pkg_switchuser",
      "folder": "",
      "client": 0,
-     "version": "1.0.2",
+     "version": "1.0.3",
      "manifeste": "pkg_switchuser.xml",
      "noms": {
       "fr-FR": "Connexion en tant que",
@@ -263,7 +263,7 @@
        "element": "com_switchuser",
        "folder": "",
        "client": 1,
-       "version": "",
+       "version": "1.0.3",
        "manifeste": "switchuser.xml",
        "noms": {
         "fr-FR": "Connexion en tant que",
@@ -277,7 +277,7 @@
        "element": "switchuser",
        "folder": "system",
        "client": 0,
-       "version": "",
+       "version": "1.0.3",
        "manifeste": "switchuser.xml",
        "noms": {
         "fr-FR": "Système - Connexion en tant que",
@@ -286,7 +286,7 @@
        "dans_paquet": true
       }
      ],
-     "en_cours": "1.0.3"
+     "en_cours": ""
     },
     {
      "dossier": "com_userimport",
