@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-17T21:21:07+00:00",
- "commit": "b3fc198",
- "commit_date": "2026-11-17T22:20:09+01:00",
+ "genere": "2026-11-18T07:00:58+00:00",
+ "commit": "c43939a",
+ "commit_date": "2026-11-18T08:00:40+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -555,7 +555,7 @@
        "element": "com_sso",
        "folder": "",
        "client": 1,
-       "version": "1.0.0",
+       "version": "",
        "manifeste": "sso.xml",
        "noms": {
         "fr-FR": "Connexion unique",
@@ -569,7 +569,7 @@
        "element": "sso",
        "folder": "system",
        "client": 0,
-       "version": "1.0.0",
+       "version": "",
        "manifeste": "sso.xml",
        "noms": {
         "fr-FR": "Système - Connexion unique",
@@ -578,7 +578,7 @@
        "dans_paquet": true
       }
      ],
-     "en_cours": ""
+     "en_cours": "1.1.0"
     }
    ]
   },
