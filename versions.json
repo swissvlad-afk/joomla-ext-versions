@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-18T07:00:58+00:00",
- "commit": "c43939a",
- "commit_date": "2026-11-18T08:00:40+01:00",
+ "genere": "2026-11-18T23:12:27+00:00",
+ "commit": "c3e32a0",
+ "commit_date": "2026-11-19T00:12:10+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -247,7 +247,7 @@
      "element": "pkg_switchuser",
      "folder": "",
      "client": 0,
-     "version": "1.1.0",
+     "version": "1.2.0",
      "manifeste": "pkg_switchuser.xml",
      "noms": {
       "fr-FR": "Connexion en tant que",
@@ -263,7 +263,7 @@
        "element": "com_switchuser",
        "folder": "",
        "client": 1,
-       "version": "1.1.0",
+       "version": "1.2.0",
        "manifeste": "switchuser.xml",
        "noms": {
         "fr-FR": "Connexion en tant que",
