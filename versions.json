@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-18T23:12:27+00:00",
- "commit": "c3e32a0",
- "commit_date": "2026-11-19T00:12:10+01:00",
+ "genere": "2026-11-19T07:51:30+00:00",
+ "commit": "2ca3d2a",
+ "commit_date": "2026-11-19T08:51:14+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -14,7 +14,7 @@
      "element": "cardionet",
      "folder": "",
      "client": 0,
-     "version": "2.3.1",
+     "version": "2.4.0",
      "manifeste": "cardionet.xml",
      "noms": {
       "fr-FR": "Bibliothèque CardioNet – comptes utilisateurs",
@@ -30,7 +30,7 @@
        "element": "cardionetmaintenance",
        "folder": "task",
        "client": 0,
-       "version": "2.3.1",
+       "version": "2.4.0",
        "manifeste": "cardionetmaintenance.xml",
        "noms": {
         "fr-FR": "Tâche - Maintenance CardioNet",
@@ -43,7 +43,7 @@
        "element": "cardionet",
        "folder": "system",
        "client": 0,
-       "version": "2.3.1",
+       "version": "2.4.0",
        "manifeste": "cardionet.xml",
        "noms": {
         "fr-FR": "Système - Réglages communs CardioNet",
