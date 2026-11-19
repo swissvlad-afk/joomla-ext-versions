@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-19T08:57:50+00:00",
- "commit": "beaf073",
- "commit_date": "2026-11-19T09:56:40+01:00",
+ "genere": "2026-11-19T09:05:26+00:00",
+ "commit": "bcdf43b",
+ "commit_date": "2026-11-19T10:04:21+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -680,7 +680,7 @@
      "element": "com_certgen",
      "folder": "",
      "client": 1,
-     "version": "2.7.0",
+     "version": "2.7.1",
      "manifeste": "certgen.xml",
      "noms": {
       "fr-FR": "Certificats",
