@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-19T16:40:49+00:00",
- "commit": "addef9c",
- "commit_date": "2026-11-19T17:40:19+01:00",
+ "genere": "2026-11-19T21:04:32+00:00",
+ "commit": "f969cdf",
+ "commit_date": "2026-11-19T22:04:09+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -1591,6 +1591,39 @@
        "noms": {
         "fr-FR": "Aide",
         "en-GB": "Help"
+       },
+       "dans_paquet": true
+      }
+     ],
+     "en_cours": ""
+    },
+    {
+     "dossier": "pkg_etat",
+     "type": "package",
+     "element": "pkg_etat",
+     "folder": "",
+     "client": 0,
+     "version": "1.0.0",
+     "manifeste": "pkg_etat.xml",
+     "noms": {
+      "fr-FR": "État du site (paquet)",
+      "en-GB": "Site state (package)"
+     },
+     "cle": "pkg_etat",
+     "sites": "",
+     "plus_maintenue": "",
+     "membres": [
+      {
+       "dossier": "com_etat",
+       "type": "component",
+       "element": "com_etat",
+       "folder": "",
+       "client": 1,
+       "version": "1.0.0",
+       "manifeste": "etat.xml",
+       "noms": {
+        "fr-FR": "État du site",
+        "en-GB": "Site state"
        },
        "dans_paquet": true
       }
