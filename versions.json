@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-19T14:17:56+00:00",
- "commit": "7dc3856",
- "commit_date": "2026-11-19T15:16:51+01:00",
+ "genere": "2026-11-19T14:26:20+00:00",
+ "commit": "44c481f",
+ "commit_date": "2026-11-19T15:25:54+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -1264,7 +1264,7 @@
      "element": "pkg_planning_sec",
      "folder": "",
      "client": 0,
-     "version": "1.1.0",
+     "version": "1.1.1",
      "manifeste": "pkg_planning_sec.xml",
      "noms": {
       "fr-FR": "Horaires du secrétariat",
@@ -1280,7 +1280,7 @@
        "element": "com_planning_sec",
        "folder": "",
        "client": 1,
-       "version": "1.1.0",
+       "version": "1.1.1",
        "manifeste": "planning_sec.xml",
        "noms": {
         "fr-FR": "Horaires du secrétariat",
@@ -1294,7 +1294,7 @@
        "element": "mod_planning_sec_today",
        "folder": "",
        "client": 0,
-       "version": "1.1.0",
+       "version": "1.1.1",
        "manifeste": "mod_planning_sec_today.xml",
        "noms": {
         "fr-FR": "Secrétariat aujourd’hui",
@@ -1308,7 +1308,7 @@
        "element": "planningsec",
        "folder": "task",
        "client": 0,
-       "version": "1.1.0",
+       "version": "1.1.1",
        "manifeste": "planningsec.xml",
        "noms": {
         "fr-FR": "Tâche - Horaires du secrétariat",
