@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-19T22:36:30+00:00",
- "commit": "641428d",
- "commit_date": "2026-11-19T23:35:20+01:00",
+ "genere": "2026-11-20T12:08:39+00:00",
+ "commit": "93c9b75",
+ "commit_date": "2026-11-20T13:07:00+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -1411,7 +1411,7 @@
      "element": "pkg_cardionet",
      "folder": "",
      "client": 0,
-     "version": "1.5.1",
+     "version": "1.6.0",
      "manifeste": "pkg_cardionet.xml",
      "noms": {
       "fr-FR": "CardioNET – template et menu",
@@ -1427,7 +1427,7 @@
        "element": "cardionet",
        "folder": "",
        "client": 0,
-       "version": "1.5.1",
+       "version": "1.6.0",
        "manifeste": "templateDetails.xml",
        "noms": {
         "fr-FR": "cardionet",
