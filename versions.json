@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-23T14:27:42+00:00",
- "commit": "deb8296",
- "commit_date": "2026-11-23T15:26:22+01:00",
+ "genere": "2026-11-23T14:30:13+00:00",
+ "commit": "75b56cb",
+ "commit_date": "2026-11-23T15:29:03+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -1603,7 +1603,7 @@
      "element": "pkg_etat",
      "folder": "",
      "client": 0,
-     "version": "1.0.1",
+     "version": "1.1.0",
      "manifeste": "pkg_etat.xml",
      "noms": {
       "fr-FR": "État du site (paquet)",
@@ -1619,7 +1619,7 @@
        "element": "com_etat",
        "folder": "",
        "client": 1,
-       "version": "1.0.1",
+       "version": "1.1.0",
        "manifeste": "etat.xml",
        "noms": {
         "fr-FR": "État du site",
