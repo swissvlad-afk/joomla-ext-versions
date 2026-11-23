@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-23T13:51:57+00:00",
- "commit": "0dac8a4",
- "commit_date": "2026-11-23T14:50:46+01:00",
+ "genere": "2026-11-23T14:27:42+00:00",
+ "commit": "deb8296",
+ "commit_date": "2026-11-23T15:26:22+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -1458,7 +1458,7 @@
      "element": "pkg_smurstages",
      "folder": "",
      "client": 0,
-     "version": "1.11.0",
+     "version": "1.12.0",
      "manifeste": "pkg_smurstages.xml",
      "noms": {
       "fr-FR": "Stages SMUR (paquet)",
@@ -1474,7 +1474,7 @@
        "element": "com_smurstages",
        "folder": "",
        "client": 1,
-       "version": "1.11.0",
+       "version": "1.12.0",
        "manifeste": "smurstages.xml",
        "noms": {
         "fr-FR": "Stages SMUR",
@@ -1488,7 +1488,7 @@
        "element": "smurstages",
        "folder": "webservices",
        "client": 0,
-       "version": "1.11.0",
+       "version": "1.12.0",
        "manifeste": "smurstages.xml",
        "noms": {
         "fr-FR": "Web Services - Stages SMUR",
