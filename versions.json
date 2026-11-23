@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-23T12:45:58+00:00",
- "commit": "bc60790",
- "commit_date": "2026-11-23T13:45:42+01:00",
+ "genere": "2026-11-23T12:55:00+00:00",
+ "commit": "0b312b9",
+ "commit_date": "2026-11-23T13:54:45+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -1674,7 +1674,7 @@
      "element": "pkg_ressources",
      "folder": "",
      "client": 0,
-     "version": "1.2.0",
+     "version": "1.3.0",
      "manifeste": "pkg_ressources.xml",
      "noms": {
       "fr-FR": "Ressources (paquet)",
@@ -1690,11 +1690,25 @@
        "element": "com_ressources",
        "folder": "",
        "client": 1,
-       "version": "1.2.0",
+       "version": "1.3.0",
        "manifeste": "ressources.xml",
        "noms": {
         "fr-FR": "Ressources",
         "en-GB": "Resources"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "mod_ressources_today",
+       "type": "module",
+       "element": "mod_ressources_today",
+       "folder": "",
+       "client": 0,
+       "version": "1.3.0",
+       "manifeste": "mod_ressources_today.xml",
+       "noms": {
+        "fr-FR": "Ressources aujourd’hui",
+        "en-GB": "Resources today"
        },
        "dans_paquet": true
       }
