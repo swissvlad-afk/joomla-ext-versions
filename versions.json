@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-23T14:41:20+00:00",
- "commit": "a1fb3ed",
- "commit_date": "2026-11-23T15:41:04+01:00",
+ "genere": "2026-11-23T15:04:56+00:00",
+ "commit": "186d276",
+ "commit_date": "2026-11-23T16:03:23+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -416,7 +416,7 @@
      "element": "pkg_droits",
      "folder": "",
      "client": 0,
-     "version": "1.0.0",
+     "version": "1.1.0",
      "manifeste": "pkg_droits.xml",
      "noms": {
       "fr-FR": "Droits de la page",
@@ -432,7 +432,7 @@
        "element": "com_droits",
        "folder": "",
        "client": 1,
-       "version": "1.0.0",
+       "version": "1.1.0",
        "manifeste": "droits.xml",
        "noms": {
         "fr-FR": "Droits de la page",
@@ -446,11 +446,25 @@
        "element": "droits",
        "folder": "system",
        "client": 0,
-       "version": "1.0.0",
+       "version": "1.1.0",
        "manifeste": "droits.xml",
        "noms": {
         "fr-FR": "Système - Droits de la page",
         "en-GB": "System - Page rights"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "mod_droits",
+       "type": "module",
+       "element": "mod_droits",
+       "folder": "",
+       "client": 0,
+       "version": "1.1.0",
+       "manifeste": "mod_droits.xml",
+       "noms": {
+        "fr-FR": "Droits",
+        "en-GB": "Rights"
        },
        "dans_paquet": true
       }
