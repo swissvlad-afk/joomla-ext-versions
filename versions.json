@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-24T11:09:39+00:00",
- "commit": "3088050",
- "commit_date": "2026-11-24T12:08:19+01:00",
+ "genere": "2026-11-24T15:31:46+00:00",
+ "commit": "2c64805",
+ "commit_date": "2026-11-24T16:31:25+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -1617,7 +1617,7 @@
      "element": "pkg_etat",
      "folder": "",
      "client": 0,
-     "version": "1.1.0",
+     "version": "1.2.0",
      "manifeste": "pkg_etat.xml",
      "noms": {
       "fr-FR": "État du site (paquet)",
@@ -1633,7 +1633,7 @@
        "element": "com_etat",
        "folder": "",
        "client": 1,
-       "version": "1.1.0",
+       "version": "1.2.0",
        "manifeste": "etat.xml",
        "noms": {
         "fr-FR": "État du site",
