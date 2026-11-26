@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-26T21:24:54+00:00",
- "commit": "6a862ec",
- "commit_date": "2026-11-26T22:24:32+01:00",
+ "genere": "2026-11-26T22:06:45+00:00",
+ "commit": "1e1fa38",
+ "commit_date": "2026-11-26T23:06:29+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -477,7 +477,7 @@
      "element": "pkg_partage",
      "folder": "",
      "client": 0,
-     "version": "0.2.0",
+     "version": "1.0.0",
      "manifeste": "pkg_partage.xml",
      "noms": {
       "fr-FR": "Comptes partagés (paquet)",
@@ -493,7 +493,7 @@
        "element": "partage",
        "folder": "",
        "client": 0,
-       "version": "0.2.0",
+       "version": "1.0.0",
        "manifeste": "partage.xml",
        "noms": {
         "fr-FR": "Bibliothèque - Comptes partagés (pilote)",
@@ -507,7 +507,7 @@
        "element": "com_partage",
        "folder": "",
        "client": 1,
-       "version": "0.2.0",
+       "version": "1.0.0",
        "manifeste": "partage.xml",
        "noms": {
         "fr-FR": "Comptes partagés",
@@ -521,7 +521,7 @@
        "element": "partage",
        "folder": "system",
        "client": 0,
-       "version": "0.2.0",
+       "version": "1.0.0",
        "manifeste": "partage.xml",
        "noms": {
         "fr-FR": "Système - Comptes partagés",
@@ -535,7 +535,7 @@
        "element": "partage",
        "folder": "console",
        "client": 0,
-       "version": "0.2.0",
+       "version": "1.0.0",
        "manifeste": "partage.xml",
        "noms": {
         "fr-FR": "Console - Comptes partagés",
@@ -549,7 +549,7 @@
        "element": "partage",
        "folder": "task",
        "client": 0,
-       "version": "0.2.0",
+       "version": "1.0.0",
        "manifeste": "partage.xml",
        "noms": {
         "fr-FR": "Tâche - Copie de secours des comptes partagés",
@@ -558,8 +558,7 @@
        "dans_paquet": true
       }
      ],
-     "en_cours": "",
-     "hors_distribution": "oui"
+     "en_cours": ""
     },
     {
      "dossier": "pkg_sso",
