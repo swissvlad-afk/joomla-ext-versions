@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-27T13:13:21+00:00",
- "commit": "d50db02",
- "commit_date": "2026-11-27T14:13:05+01:00",
+ "genere": "2026-11-27T16:02:35+00:00",
+ "commit": "d946a9e",
+ "commit_date": "2026-11-27T17:01:00+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -618,7 +618,7 @@
      "element": "pkg_courses",
      "folder": "",
      "client": 0,
-     "version": "1.21.0",
+     "version": "1.22.0",
      "manifeste": "pkg_courses.xml",
      "noms": {
       "fr-FR": "Formations",
@@ -634,7 +634,7 @@
        "element": "com_courses",
        "folder": "",
        "client": 1,
-       "version": "1.21.0",
+       "version": "1.22.0",
        "manifeste": "courses.xml",
        "noms": {
         "fr-FR": "Formations",
@@ -648,7 +648,7 @@
        "element": "courses",
        "folder": "task",
        "client": 0,
-       "version": "1.21.0",
+       "version": "1.22.0",
        "manifeste": "courses.xml",
        "noms": {
         "fr-FR": "Tâche - Formations",
@@ -662,7 +662,7 @@
        "element": "courses",
        "folder": "user",
        "client": 0,
-       "version": "1.21.0",
+       "version": "1.22.0",
        "manifeste": "courses.xml",
        "noms": {
         "fr-FR": "Utilisateur - Formations",
@@ -676,7 +676,7 @@
        "element": "courses",
        "folder": "system",
        "client": 0,
-       "version": "1.21.0",
+       "version": "1.22.0",
        "manifeste": "courses.xml",
        "noms": {
         "fr-FR": "Système - Formations (fin de parcours, fermeture de JoomLMS)",
@@ -690,7 +690,7 @@
        "element": "mod_courses_upcoming",
        "folder": "",
        "client": 0,
-       "version": "1.21.0",
+       "version": "1.22.0",
        "manifeste": "mod_courses_upcoming.xml",
        "noms": {
         "fr-FR": "Formations – mes prochaines formations",
