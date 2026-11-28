@@ -1,8 +1,8 @@
 {
  "format": 1,
- "genere": "2026-11-27T17:43:10+00:00",
- "commit": "0f4e235",
- "commit_date": "2026-11-27T18:41:46+01:00",
+ "genere": "2026-11-28T09:59:32+00:00",
+ "commit": "683090d",
+ "commit_date": "2026-11-28T10:59:14+01:00",
  "modifie": false,
  "groupes": [
   {
@@ -375,21 +375,50 @@
      "en_cours": ""
     },
     {
-     "dossier": "plg_system_accesslevelguard",
-     "type": "plugin",
-     "element": "accesslevelguard",
-     "folder": "system",
+     "dossier": "pkg_accesslevelguard",
+     "type": "package",
+     "element": "pkg_accesslevelguard",
+     "folder": "",
      "client": 0,
-     "version": "1.0.1",
-     "manifeste": "accesslevelguard.xml",
+     "version": "1.1.0",
+     "manifeste": "pkg_accesslevelguard.xml",
      "noms": {
-      "fr-FR": "Système - Garde des niveaux d'accès",
-      "en-GB": "System - Access Level Guard"
+      "fr-FR": "Garde des niveaux d’accès",
+      "en-GB": "Access Level Guard"
      },
-     "cle": "plg_system_accesslevelguard",
+     "cle": "pkg_accesslevelguard",
      "sites": "",
      "plus_maintenue": "",
-     "membres": [],
+     "membres": [
+      {
+       "dossier": "plg_system_accesslevelguard",
+       "type": "plugin",
+       "element": "accesslevelguard",
+       "folder": "system",
+       "client": 0,
+       "version": "1.1.0",
+       "manifeste": "accesslevelguard.xml",
+       "noms": {
+        "fr-FR": "Système - Garde des niveaux d’accès",
+        "en-GB": "System - Access Level Guard"
+       },
+       "dans_paquet": true
+      },
+      {
+       "dossier": "com_accesslevelguard",
+       "type": "component",
+       "element": "com_accesslevelguard",
+       "folder": "",
+       "client": 1,
+       "version": "1.1.0",
+       "manifeste": "accesslevelguard.xml",
+       "noms": {
+        "fr-FR": "Groupes et niveaux",
+        "en-GB": "Groups and levels"
+       },
+       "dans_paquet": true
+      }
+     ],
      "en_cours": ""
     },
     {
